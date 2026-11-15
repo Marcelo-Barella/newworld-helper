@@ -1,0 +1,998 @@
+{
+  "generated": "2026-11-15T18:31:31-03:00",
+  "sheet_url": "https://docs.google.com/spreadsheets/d/1P32ocn3jgZ08m8DYVt0MURb7tPGYjghR2fE8GFmXxWA/edit",
+  "server": "Project Azoth Playtest 2 (unofficial)",
+  "map_note": "Map / path (on foot) — NOTE: main map is Metaforge https://metaforge.app/new-world/map/ ; game-maps.com pages are [OLD] 2022. Do NOT use aeternum-map.gg (parking page) or newworlddb.gg (redirects to an unrelated site).",
+  "steps": [
+    {
+      "step": 1,
+      "level_min": 1,
+      "level_max": 5,
+      "level_range": "1–5",
+      "zone": "Starting beach → Monarch's Bluffs (the only start shown on Azoth; official game spawns at random in 4 zones)",
+      "activities": [
+        "Optional: skip the tutorial (ESC → 'Skip to New World') after picking up Captain Thorpe's box.",
+        "Do the beach MSQ chain.",
+        "On 'Basic Needs', gather 4+ Flint and 4+ Wood and craft all four flint tools at Watcher's Campfire.",
+        "Don't go into the settlement before you finish the beach quests."
+      ],
+      "why_fast": "Beach quests 'shoot you up to level 5 very quickly'. With the tools you gather later quest mats on the way, so no return trips.",
+      "xp_estimate": "no sourced figure",
+      "time_estimate": "estimate: ~15–30 min (official-server pace, no 2x assumed; Azoth XP rate unpublished)",
+      "azoth_status": "verified on Azoth: character creation, tutorial, Captain Thorpe and the run into Monarch's Bluffs were shown in dev footage. Tutorial skip and random beaches are unverified.",
+      "notes": "https://thexamxam.com/2025/08/new-world-aeternum-levelling-tips-and-tricks-2025/: (Steam guide is 2021 PRE-AETERNUM; beach flow may differ)",
+      "map_path": "On foot: Soul Survivor → Basic Needs (Flint + Wood, knife at Urda's campfire) → Campfire Feast (boar, Light Ration) → Crewmates No More → Amidst the Wreckage → Lessons of a Pirate's Life → Memories of Grace → Demon Storm / Team Effort → Bearer of Bad Tidings (walk toward Prydwen; optional Truffle Fever with Hapless Howe). Do not skip the beach crafts. Official random 4-beach start is unverified on Azoth. Map: Metaforge https://metaforge.app/new-world/map/ | Monarchs Bluffs static [OLD 2022] https://game-maps.com/NW/Monarchs-Bluffs-Map.asp",
+      "sources": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2665600644",
+          "title": "Steam guide: Leveling Guide 1–60",
+          "date": "2021-11",
+          "patch": "PRE-AETERNUM (outdated)"
+        },
+        {
+          "url": "https://thexamxam.com/2025/08/new-world-aeternum-levelling-tips-and-tricks-2025/",
+          "title": "thexamxam: Aeternum Levelling Tips 2025",
+          "date": "2025-08-28",
+          "patch": "Aeternum S8/S9"
+        },
+        {
+          "url": "https://expcarry.com/new-world-project-azoth-playtest-launch-status",
+          "title": "ExpCarry: Project Azoth playtest launch status",
+          "date": "2026-11-05 (modified)",
+          "patch": "Azoth Playtest 1–2"
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "level_min": 5,
+      "level_max": 10,
+      "level_range": "5–10",
+      "zone": "Monarch's Bluffs (starting territory, 1–25 zone)",
+      "activities": [
+        "Follow your territory's MSQ (Act I Ch.2).",
+        "Grab side quests near MSQ objectives and the town board missions.",
+        "Collect lore books (secondary interact) and discover every POI and Spirit Shrine."
+      ],
+      "why_fast": "MSQ XP is the backbone. Starter side quests are 'almost always located close to the MSQ'. POIs, shrines and lore all give XP.",
+      "xp_estimate": "no sourced figure",
+      "time_estimate": "estimate: ~45–75 min (official-server pace, no 2x assumed; Azoth XP rate unpublished)",
+      "azoth_status": "verified on Azoth (partly demonstrated): Monarch's Bluffs quests, XP, lore, gathering, crafting. Some quests may break.",
+      "notes": "https://newworld.fandom.com/wiki/Main_Story: (fandom chain names may have changed in Aeternum)",
+      "map_path": "Hub: Prydwen. Welcome to Prydwen → Friends with Coin → The Knight-Regent (Jin Jae). Nearby: Pick of the Mines, Resources for Prydwen, A Sword for a Friend, Town Project Board, Devil Honey (Hiraeth Lookout). Map: Metaforge https://metaforge.app/new-world/map/ | Monarchs Bluffs static [OLD 2022] https://game-maps.com/NW/Monarchs-Bluffs-Map.asp",
+      "sources": [
+        {
+          "url": "https://thexamxam.com/2025/08/new-world-aeternum-levelling-tips-and-tricks-2025/",
+          "title": "thexamxam: Aeternum Levelling Tips 2025",
+          "date": "2025-08-28",
+          "patch": "Aeternum S8/S9"
+        },
+        {
+          "url": "https://gamerant.com/new-world-aeternum-how-level-up-fast/",
+          "title": "Gamerant: level up fast",
+          "date": "undated",
+          "patch": "Aeternum"
+        },
+        {
+          "url": "https://newworld.fandom.com/wiki/Main_Story",
+          "title": "New World fandom: Main Story",
+          "date": "MSQ overhaul 2022-10-18",
+          "patch": "Pre-Aeternum/mixed"
+        },
+        {
+          "url": "https://expcarry.com/new-world-project-azoth-playtest-launch-status",
+          "title": "ExpCarry: Project Azoth playtest launch status",
+          "date": "2026-11-05 (modified)",
+          "patch": "Azoth Playtest 1–2"
+        },
+        {
+          "url": "https://projectazoth.com/api/types",
+          "title": "Azoth Central API: packet types (incl. /api/types/<idx> pages cited in Tips)",
+          "date": "2026-11-15",
+          "patch": "Azoth, 1.400"
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "level_min": 10,
+      "level_max": 15,
+      "level_range": "10–15",
+      "zone": "Monarch's Bluffs",
+      "activities": [
+        "Keep pushing the MSQ.",
+        "At level 10, join a faction ('Choose Your Allegiance'); flag PvP only if Azoth confirms a flag XP bonus.",
+        "Level 10 also unlocks camping T1, duels and a bag slot.",
+        "NOTE: sources conflict on the faction level. game8 says 10; thexamxam says initiations appear at 17 in Everfall.",
+        "Verify in game."
+      ],
+      "why_fast": "Official servers: the faction unlocks the flag bonus and faction missions (first 3 daily = 5x). On Azoth both are unconfirmed.",
+      "xp_estimate": "no sourced figure",
+      "time_estimate": "estimate: ~1–1.5 h (official-server pace, no 2x assumed; Azoth XP rate unpublished)",
+      "azoth_status": "unverified on Azoth: faction join + PvP flag toggle are handled at protocol level; faction mission selection NOT implemented; +10% flag XP unconfirmed.",
+      "notes": null,
+      "map_path": "MB Chapter 2 continues: Knight in the North / Brysedd Shore, mines, pirate/Lost beats (A Pirate's Plan, The True Threat). Optional side at 12: Dentistry Artistry (wolf fangs). Join a faction when it appears (lvl 10 vs 17: still an open conflict from brief-v1). Hub: Prydwen. Map: Metaforge https://metaforge.app/new-world/map/ | Monarchs Bluffs static [OLD 2022] https://game-maps.com/NW/Monarchs-Bluffs-Map.asp",
+      "sources": [
+        {
+          "url": "https://game8.co/games/New-World/archives/338369",
+          "title": "game8: faction",
+          "date": "undated",
+          "patch": "unknown"
+        },
+        {
+          "url": "https://nwguide.ru/db/progression",
+          "title": "nwguide.ru progression table",
+          "date": "undated",
+          "patch": "S10 (lists Nighthaven/Catacombs)"
+        },
+        {
+          "url": "https://thexamxam.com/2025/08/new-world-aeternum-levelling-tips-and-tricks-2025/",
+          "title": "thexamxam: Aeternum Levelling Tips 2025",
+          "date": "2025-08-28",
+          "patch": "Aeternum S8/S9"
+        },
+        {
+          "url": "https://projectazoth.com/api/types",
+          "title": "Azoth Central API: packet types (incl. /api/types/<idx> pages cited in Tips)",
+          "date": "2026-11-15",
+          "patch": "Azoth, 1.400"
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "level_min": 15,
+      "level_max": 17,
+      "level_range": "15–17 (estimate)",
+      "zone": "Monarch's Bluffs / Prydwen",
+      "activities": [
+        "Finish MB MSQ: Broken Oath → Lost Legacy / The Plot against Prydwen / Corbenic Castle → A True Leader.",
+        "Nearby sides: Ending the Madness, Heart of Glass, A Useless Hope, The Aspiring Knight; Learn to Craft if skipped.",
+        "Wilderness Wiseman follows at 17 (next step)."
+      ],
+      "why_fast": "Finish the demonstrated starter territory before the short walk to Yonas. MB sides are thin: 16 quests / 7,050 base XP total; ~3,100 at levels 14–17.",
+      "xp_estimate": "~20,900 remaining MB MSQ INCLUDING Wilderness Wiseman in step 5; do not count twice. Pre-2x base, Azoth rate unknown.",
+      "time_estimate": "estimate: unknown; no sourced walking speed or Azoth XP rate",
+      "azoth_status": "Only MB shown working. NPC quest turn-in (2461) captured, not solved: UNKNOWN despite earlier reward demonstrations; may be handled another way.",
+      "notes": "https://projectazoth.com/api/types: (LIVE 11/04/2025 data; retrieved 2026-11-15)",
+      "map_path": "Broken Oath → Lost Legacy → The Plot against Prydwen → Corbenic Castle → A True Leader (lvl 17), then Wilderness Wiseman. Optional sides at 12–17: Heart of Glass, Ending the Madness, A Useless Hope, The Aspiring Knight. Hub: Prydwen. Map: Metaforge https://metaforge.app/new-world/map/ | Monarchs Bluffs static [OLD 2022] https://game-maps.com/NW/Monarchs-Bluffs-Map.asp",
+      "sources": [
+        {
+          "url": "https://nwdb.info/db/quests/page/1.json",
+          "title": "nwdb quest list JSON (pages 1–99)",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data (pre-2x base XP)"
+        },
+        {
+          "url": "https://nwdb.info/db/quest/12a_msq_26_toyonas",
+          "title": "nwdb: Wilderness Wiseman",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://expcarry.com/new-world-project-azoth-playtest-launch-status",
+          "title": "ExpCarry: Project Azoth playtest launch status",
+          "date": "2026-11-05 (modified)",
+          "patch": "Azoth Playtest 1–2"
+        },
+        {
+          "url": "https://projectazoth.com/api/types",
+          "title": "Azoth Central API: packet types (incl. /api/types/<idx> pages cited in Tips)",
+          "date": "2026-11-15",
+          "patch": "Azoth, 1.400"
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "level_min": 17,
+      "level_max": 17,
+      "level_range": "17 (estimate)",
+      "zone": "Monarch's Bluffs → Fisherman's Bend",
+      "activities": [
+        "Wilderness Wiseman (Jin Jae → Yonas Alazar): walk east to Fisherman's Bend (~1.4 km straight line, estimate).",
+        "Then Old Stone Remembers → Strength of a Soul.",
+        "Wilderness Wiseman also unlocks Feast to Famine (optional Windsward chain) and Welcome to Prydwen."
+      ],
+      "why_fast": "MSQ convergence at Yonas connects the MB start to Chapter 3; no mount needed.",
+      "xp_estimate": "Wilderness Wiseman 3,000 (included in step 4 total); Old Stone Remembers 3,000 + Strength of a Soul 3,500 (included in step 6 Chapter 3 total). Pre-2x base, Azoth rate unknown.",
+      "time_estimate": "estimate: walking time unknown; coordinate distances assume 1 unit ≈ 1 metre; terrain longer",
+      "azoth_status": "unverified on Azoth: MB shown, but this transition unshown. Territory entry 2297, quest accept 3772, talk objective 794 solved; NPC turn-in 2461 UNKNOWN. Mount summon wanted; on foot.",
+      "notes": "https://projectazoth.com/api/types: (LIVE 11/04/2025 data; retrieved 2026-11-15)",
+      "map_path": "Wilderness Wiseman: walk about 1.4 km east from Prydwen (Jin Jae ~7240,3750) to Yonas Alazar at Fisherman's Bend (~8552,3262). Then Old Stone Remembers and Strength of a Soul. Unlocks Chapter 3 and the Windsward Feast to Famine chain. Bend is an MB POI. Map: Metaforge https://metaforge.app/new-world/map/ | Monarchs Bluffs static [OLD 2022] https://game-maps.com/NW/Monarchs-Bluffs-Map.asp",
+      "sources": [
+        {
+          "url": "https://nwdb.info/db/quest/12a_msq_26_toyonas",
+          "title": "nwdb: Wilderness Wiseman",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://nwdb.info/db/quest/99a_msq_01_learnsoulwardens",
+          "title": "nwdb: Chapter 3 Old Stone Remembers",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://nwdb.info/db/npc/99a_yonas_00.json",
+          "title": "nwdb NPC coordinates: Yonas",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://projectazoth.com/api/types",
+          "title": "Azoth Central API: packet types (incl. /api/types/<idx> pages cited in Tips)",
+          "date": "2026-11-15",
+          "patch": "Azoth, 1.400"
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "level_min": 17,
+      "level_max": 25,
+      "level_range": "17–25 (estimate)",
+      "zone": "Everfall (availability UNKNOWN); optional Windsward",
+      "activities": [
+        "Chapter 3 Soulwarden (16 quests incl. step 5): Talk of the Town → Arcturus → Adiana / Daughterwell / Canary Mine / tincture / Ebonrock → Canis → Vulcanus → An Order Reborn (Shattered Obelisk) → Defense / Invasion of Everfall → Destiny Unearthed → The Ritual (25, Amrine expedition).",
+        "Do nearby Everfall sides (Heron, Tamra Ayad, Atticus Delphi; Dishonorable Daughter; Canary in the Corrupted Mine).",
+        "If short, optional Windsward Feast to Famine chain (~1 km ESE of Fisherman's Bend, estimate)."
+      ],
+      "why_fast": "Everfall has the densest side quests for 15–25. The Ritual / Amrine may be a hard stop at 25 (estimate); don't rush Brightwood (MSQ 31–34).",
+      "xp_estimate": "Chapter 3 61,500 incl. first 2 quests in step 5; Everfall non-expedition sides ~43,800; optional Windsward chain ~48,700 estimate (sides 14,760). ALL pre-2x base, Azoth rate unknown; XP needed per level unknown.",
+      "time_estimate": "estimate: unknown; no validated Azoth duration",
+      "azoth_status": "unverified on Azoth: Everfall, Windsward, Amrine UNKNOWN. Only MB demonstrated. NPC turn-in UNKNOWN; expedition entry handled, many packets/AI unsolved. Town board UNKNOWN. Chapter 3 POI territories likely, not primary-verified; Oxboro territory UNKNOWN.",
+      "notes": "https://projectazoth.com/api/types: (LIVE 11/04/2025 data; retrieved 2026-11-15)",
+      "map_path": "[AZOTH UNVERIFIED] Talk of the Town (Yonas toward 'Oxboro' — territory still UNKNOWN) → walk about 1.0 km north to Everfall town (William Heron, Franc Dubois, Grace O'Malley) → The Last Soulwarden (tower Arcturus) → Speaker of the Angry Earth / Adiana (~0.9 km north of town) → The Daughterwell (Canary Mine) → Weakness of the Ego (tincture, CONFLICT — see Tips) → Plans of the Pestilent (Ebonrock Armory) → A Living Conduit (back to Yonas) → The Implement of a Soulwarden (Canis) → Forgemaster's Legacy (Vulcanus) → An Order Reborn (forge under Shattered Obelisk) → The Defense of Everfall → The Invasion of Everfall (northern Everfall) → Destiny Unearthed (southern Everfall) → The Ritual (lvl 25, Amrine Temple expedition; likely hard stop if expeditions are broken, EST). Stay on foot (mount summon wanted). Map: Metaforge https://metaforge.app/new-world/map/ | Everfall static [OLD 2022] https://game-maps.com/NW/Everfall-Map.asp",
+      "sources": [
+        {
+          "url": "https://nwdb.info/db/quest/99a_msq_01_learnsoulwardens",
+          "title": "nwdb: Chapter 3 Old Stone Remembers",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://nwdb.info/db/quest/99a_msq_15_ritual",
+          "title": "nwdb: The Ritual",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://nwdb.info/db/quests/page/1.json",
+          "title": "nwdb quest list JSON (pages 1–99)",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data (pre-2x base XP)"
+        },
+        {
+          "url": "https://newworld.wiki.fextralife.com/Everfall",
+          "title": "Fextralife wiki: Everfall",
+          "date": "undated",
+          "patch": "search-summary location support"
+        },
+        {
+          "url": "https://game-maps.com/NW/Everfall-Map.asp",
+          "title": "game-maps: Everfall map",
+          "date": "undated",
+          "patch": "search-summary location support"
+        },
+        {
+          "url": "https://projectazoth.com/api/types",
+          "title": "Azoth Central API: packet types (incl. /api/types/<idx> pages cited in Tips)",
+          "date": "2026-11-15",
+          "patch": "Azoth, 1.400"
+        }
+      ]
+    },
+    {
+      "step": "6b (optional)",
+      "level_min": 17,
+      "level_max": 25,
+      "level_range": "~17–25 (quest levels mostly not listed)",
+      "zone": "Windsward (~1 km ESE of Fisherman's Bend, estimate)",
+      "activities": [
+        "Optional padding or fallback: Feast to Famine chain (unlocked by Wilderness Wiseman) + Windsward side quests.",
+        "Use if short of 23–25, or if Everfall is broken/unreachable; return to Everfall if it opens."
+      ],
+      "why_fast": "Big XP block close to Fisherman's Bend; the MB starter already did 'Old Man by the River'.",
+      "xp_estimate": "Chain ~48,700 (estimate, excludes Old Man by the River); sides 14,760; chain + sides ~63k (estimate). Pre-2x base, Azoth rate unknown.",
+      "time_estimate": "estimate: unknown",
+      "azoth_status": "unverified on Azoth: Windsward availability UNKNOWN; NPC turn-in (2461) UNKNOWN.",
+      "notes": "https://projectazoth.com/api/types: (LIVE 11/04/2025 data; retrieved 2026-11-15)",
+      "map_path": "[AZOTH UNVERIFIED] From Fisherman's Bend about 1.0 km east-southeast to Windsward town (Marcel Dupont / Saatvik Agrawal). Feast to Famine → Rest Assured → Money Talks → Desperate Measures → … → Old Man by the River (skip if already done as Wilderness Wiseman). Optional: Supply Run / Fire Up the Forge at Talesa Serrano / Zhang Haoyu. Fallback if Everfall is closed. Map: Metaforge https://metaforge.app/new-world/map/ | Windsward static [OLD 2022] https://game-maps.com/NW/Windsward-Map.asp",
+      "sources": [
+        {
+          "url": "https://nwdb.info/db/quests/page/1.json",
+          "title": "nwdb quest list JSON (pages 1–99)",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data (pre-2x base XP)"
+        },
+        {
+          "url": "https://nwdb.info/db/quest/12a_msq_26_toyonas",
+          "title": "nwdb: Wilderness Wiseman",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://nwdb.info/db/npc/06_marceldupont01.json",
+          "title": "nwdb NPC coordinates: Marcel Dupont",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://projectazoth.com/api/types",
+          "title": "Azoth Central API: packet types (incl. /api/types/<idx> pages cited in Tips)",
+          "date": "2026-11-15",
+          "patch": "Azoth, 1.400"
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "level_min": 31,
+      "level_max": 34,
+      "level_range": "MSQ 31–34 (not 25); entry gate 25 ≠ quest level",
+      "zone": "Brightwood — OUT OF RANGE for 15–25",
+      "activities": [
+        "Darkness in the Brightwood begins the Brightwood chain (99b quests listed 31–34).",
+        "Older 'Brightwood from 25' route was optimistic.",
+        "Do not rush north at 25.",
+        "Brightwood / Cutlass Keys / Weaver's Fen are out of range for this 15–25 plan."
+      ],
+      "why_fast": "Keep the 15–25 route in MB, Everfall and optional Windsward.",
+      "xp_estimate": "First quest 4,000; pre-2x base, Azoth rate unknown.",
+      "time_estimate": "estimate: unknown on Azoth",
+      "azoth_status": "unverified on Azoth; beyond the ~1–25 playtest target. Brightwood/Cutlass Keys/Weaver's Fen availability UNKNOWN.",
+      "notes": "https://game-maps.com/NW/Aeternum-World-Map.asp: (2022 OLD zone ranges) | https://nwguide.ru/db/progression: (LIVE 11/04/2025 quest data; retrieved 2026-11-15)",
+      "map_path": "[AZOTH UNVERIFIED] Darkness in the Brightwood: Yonas seeks Brother Umberto in Walsham → The Shining Knight (Ser Galahad) → Losing the Faith → Crimson Menace (Corrupted iron mine, meet in Calvary) → The Vigil's Truth → Betrayal at Brightrest → The Azoth Tree → The Gates of Great Cleave → Umberto's Sentence → The Curse of Caer Dun → The Corpse Crone (vectors to Weaver's Fen). Map: Metaforge https://metaforge.app/new-world/map/ | Brightwood static [OLD 2022] https://game-maps.com/NW/Brightwood-Map.asp",
+      "sources": [
+        {
+          "url": "https://nwdb.info/db/quest/99b_msq_01_searchwalsham",
+          "title": "nwdb: Darkness in the Brightwood",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data"
+        },
+        {
+          "url": "https://nwdb.info/db/quests/page/1.json",
+          "title": "nwdb quest list JSON (pages 1–99)",
+          "date": "data LIVE 11/04/2025",
+          "patch": "S10-era game data (pre-2x base XP)"
+        },
+        {
+          "url": "https://game-maps.com/NW/Aeternum-World-Map.asp",
+          "title": "game-maps: Aeternum World Map",
+          "date": "2022 table",
+          "patch": "[OLD] zone level ranges"
+        },
+        {
+          "url": "https://nwguide.ru/db/progression",
+          "title": "nwguide.ru progression table",
+          "date": "undated",
+          "patch": "S10 (lists Nighthaven/Catacombs)"
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "level_min": 30,
+      "level_max": 40,
+      "level_range": "30–40",
+      "zone": "Brightwood → Weaver's Fen (from 30)",
+      "activities": [
+        "MSQ through Weaver's Fen.",
+        "Optional: 'Story of the Stones' (Architect Na Li) for the Ancient Mining Pick.",
+        "With a group: Starstone Barrows expedition (Everfall, level 35) and small corruption portals."
+      ],
+      "why_fast": "The MSQ carries you. Portals and expeditions add group XP.",
+      "xp_estimate": "no sourced figure",
+      "time_estimate": "estimate: ~3–4 h (official-server pace, no 2x assumed; Azoth XP rate unpublished)",
+      "azoth_status": "unverified on Azoth; out of scope for Playtest 2 (estimate: unlikely to reach 25+ in 2–3 days).",
+      "notes": null,
+      "map_path": "[AZOTH UNVERIFIED] Weaver's Fen (30–40): The Crone's Curse (Ser Galahad) → The Curse of Karburg → Bridge Into the Past → A Weaver's Yarn (settlement) → Follow the Marsh Lights (Morgaine) → Temple of the Crone → A Face in the Mist → Old Wounds → The Power of Azoth (Canopus) → Unexpected Prisoner (Andrometus) → The Source of the Blight (Lepus) → Corruption Spreads its Hooks. Map: Metaforge https://metaforge.app/new-world/map/ | Weavers Fen static [OLD 2022] https://game-maps.com/NW/Weavers-Fen-Map.asp",
+      "sources": [
+        {
+          "url": "https://nwguide.ru/db/progression",
+          "title": "nwguide.ru progression table",
+          "date": "undated",
+          "patch": "S10 (lists Nighthaven/Catacombs)"
+        },
+        {
+          "url": "https://gameboost.com/blog/new-world-aeternum-leveling-guide",
+          "title": "GameBoost: Aeternum Leveling Guide",
+          "date": "undated per brief (page shows 2026-05-26, upd. 2026-09-02)",
+          "patch": "65-cap era (S6–S9)"
+        },
+        {
+          "url": "https://newworld.fandom.com/wiki/Expeditions",
+          "title": "New World fandom: Expeditions",
+          "date": "undated",
+          "patch": "unknown (may be stale)"
+        },
+        {
+          "url": "https://www.icy-veins.com/new-world/leveling-strategy-guide",
+          "title": "Icy Veins: Leveling Strategy Guide",
+          "date": "2025-10-08 (updated)",
+          "patch": "S10 (official-server tips)"
+        },
+        {
+          "url": "https://expcarry.com/new-world-project-azoth-playtest-launch-status",
+          "title": "ExpCarry: Project Azoth playtest launch status",
+          "date": "2026-11-05 (modified)",
+          "patch": "Azoth Playtest 1–2"
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "level_min": 40,
+      "level_max": 50,
+      "level_range": "40–50",
+      "zone": "Great Cleave (from 40). Optional, not on the current MSQ ID chain (delta 3): Restless Shore (40), Mourningdale (45)",
+      "activities": [
+        "MSQ.",
+        "The Depths expedition (Restless Shore, level 45).",
+        "Faction missions daily (official servers)."
+      ],
+      "why_fast": "Same MSQ loop.",
+      "xp_estimate": "no sourced figure",
+      "time_estimate": "estimate: ~4–6 h (official-server pace, no 2x assumed; Azoth XP rate unpublished)",
+      "azoth_status": "unverified on Azoth; out of scope for Playtest 2 (estimate: unlikely to reach 25+ in 2–3 days).",
+      "notes": null,
+      "map_path": "[AZOTH UNVERIFIED] Great Cleave (40+): Through the Gates of Great Cleave → Secrets in the Ruins → Assessing the Enemy → Sabotage the Supply Chain → All Part of the Plan → Mounting An Attack → Beyond the Gates → To Stand Against The Dark → Wounds Run Deep → A Better Defense (Caer Dun). RECONCILED (delta 3): Restless Shore and Mourningdale are NOT on the current MSQ ID chain — optional only (zone gates 40 / 45). Map: Metaforge https://metaforge.app/new-world/map/ | Great Cleave static [OLD 2022] https://game-maps.com/NW/Great-Cleave-Map.asp | Restless Shore static [OLD 2022] https://game-maps.com/NW/Restless-Shore-Map.asp | Mourningdale static [OLD 2022] https://game-maps.com/NW/Mourningdale-Map.asp",
+      "sources": [
+        {
+          "url": "https://nwguide.ru/db/progression",
+          "title": "nwguide.ru progression table",
+          "date": "undated",
+          "patch": "S10 (lists Nighthaven/Catacombs)"
+        },
+        {
+          "url": "https://newworld.fandom.com/wiki/Expeditions",
+          "title": "New World fandom: Expeditions",
+          "date": "undated",
+          "patch": "unknown (may be stale)"
+        },
+        {
+          "url": "https://expcarry.com/new-world-project-azoth-playtest-launch-status",
+          "title": "ExpCarry: Project Azoth playtest launch status",
+          "date": "2026-11-05 (modified)",
+          "patch": "Azoth Playtest 1–2"
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "level_min": 50,
+      "level_max": 60,
+      "level_range": "50–60",
+      "zone": "Edengrove (50+) → Ebonscale Reach (58–60) → Shattered Mountain (60) (delta 3 MSQ order)",
+      "activities": [
+        "MSQ.",
+        "Dynasty Shipyard expedition (Ebonscale, level 55).",
+        "At 60: Shattered Mountain (fastest PvP faction missions per Icy Veins, official), Brimstone Sands, Reekwater, Cutlass Keys."
+      ],
+      "why_fast": "Steady MSQ progress.",
+      "xp_estimate": "MSQ alone ≈ level 62 of 65 (official pre-S10, pre-2x math)",
+      "time_estimate": "estimate: ~5–7 h (official-server pace, no 2x assumed; Azoth XP rate unpublished)",
+      "azoth_status": "unverified on Azoth; out of scope for Playtest 2 (estimate: unlikely to reach 25+ in 2–3 days).",
+      "notes": null,
+      "map_path": "[AZOTH UNVERIFIED] Edengrove (50+): The Untamed Garden → On the Wizard's Trail → The Hope of New Growth → Dowsing for Answers → The Wizard's Trial → Myrddin's Fate → The Staff of Wizardry → Speaker for the Green → The Motherwell → A Shadow Falls. Then Ebonscale Reach (58–60): From the Ashes of Caer Dun (Yash Zafar) → Together, Without a Home → Discord and Balance → A New Beginning → Art of War and Friendship → Lament of the Empress → The Empress of Ebonscale → The Tormented Prince → Fallen Dynasty, Return of the Child, A Mother's Dream, The New Rising Sun. Then Shattered Mountain (60): The Shattered Mountain (Yash Zafar) → Through a Mirror Darkly … → A Shifting in the Sands (unlocks Brimstone). RECONCILED (delta 3): Shattered Mountain sits between Ebonscale and Brimstone in the MSQ. Map: Metaforge https://metaforge.app/new-world/map/ | Edengrove static [OLD 2022] https://game-maps.com/NW/Edengrove-Map.asp | Ebonscale Reach static [OLD 2022] https://game-maps.com/NW/Ebonscale-Reach-Map.asp | Shattered Mountain static [OLD 2022] https://game-maps.com/NW/Shattered-Mountain-Map.asp",
+      "sources": [
+        {
+          "url": "https://nwguide.ru/db/progression",
+          "title": "nwguide.ru progression table",
+          "date": "undated",
+          "patch": "S10 (lists Nighthaven/Catacombs)"
+        },
+        {
+          "url": "https://www.icy-veins.com/new-world/leveling-strategy-guide",
+          "title": "Icy Veins: Leveling Strategy Guide",
+          "date": "2025-10-08 (updated)",
+          "patch": "S10 (official-server tips)"
+        },
+        {
+          "url": "https://thexamxam.com/2025/08/new-world-aeternum-levelling-tips-and-tricks-2025/",
+          "title": "thexamxam: Aeternum Levelling Tips 2025",
+          "date": "2025-08-28",
+          "patch": "Aeternum S8/S9"
+        },
+        {
+          "url": "https://gameboost.com/blog/new-world-aeternum-leveling-guide",
+          "title": "GameBoost: Aeternum Leveling Guide",
+          "date": "undated per brief (page shows 2026-05-26, upd. 2026-09-02)",
+          "patch": "65-cap era (S6–S9)"
+        },
+        {
+          "url": "https://expcarry.com/new-world-project-azoth-playtest-launch-status",
+          "title": "ExpCarry: Project Azoth playtest launch status",
+          "date": "2026-11-05 (modified)",
+          "patch": "Azoth Playtest 1–2"
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "level_min": 60,
+      "level_max": 65,
+      "level_range": "60–65",
+      "zone": "Brimstone Sands → Elysian Wilds (60)",
+      "activities": [
+        "Finish the Brimstone MSQ, then the Elysian Wilds MSQ ('The Invasion of Artemis' from Morgaine).",
+        "The official Elysian MSQ-gate removal (2026-04-21, Elysian only) is NOT in the 1.400 client, so expect the gate.",
+        "Level 60 expeditions: Garden of Genesis, Lazarus, Tempest's Heart, Barnacles & Black Powder, The Ennead, Empyrean Forge."
+      ],
+      "why_fast": "Remaining MSQ, plus side quests to close the gap.",
+      "xp_estimate": "no sourced figure",
+      "time_estimate": "estimate: ~4–6 h (official-server pace, no 2x assumed; Azoth XP rate unpublished)",
+      "azoth_status": "unverified on Azoth; out of scope for Playtest 2 (estimate: unlikely to reach 25+ in 2–3 days).",
+      "notes": null,
+      "map_path": "[AZOTH UNVERIFIED] Brimstone Sands (60): Brimstone Under Siege at the Refugee Caravan (Ghazi Laghmani) → The Great Architect and the desert chain (Eye of Horus, Challenging the Pharaoh, etc.). Then Elysian Wilds (60–65): The Invasion of Artemis (Morgaine; seeds / inoculate, UNKNOWN) → Into the Wilds → Into the Darkness → Survivalist's Revenge → First Light, Last Stand → Abducted Artificer → Escaping The Ruins → Maze and the Minotaur → Lord of the Pride → The Proving Grounds → Rage of the Mammoth → Garden of the Gorgon → Arcana Aligned → One With Nature → The End of New Eden. Map: Metaforge only https://metaforge.app/new-world/map/ (game-maps.com 404 for Brimstone and Elysian).",
+      "sources": [
+        {
+          "url": "https://steamcommunity.com/app/1063730/discussions/0/4693405793411843772/",
+          "title": "Steam discussion: Invasion of Artemis",
+          "date": "undated",
+          "patch": "RotAE / Aeternum"
+        },
+        {
+          "url": "https://newworld.fandom.com/wiki/Expeditions",
+          "title": "New World fandom: Expeditions",
+          "date": "undated",
+          "patch": "unknown (may be stale)"
+        },
+        {
+          "url": "https://expcarry.com/new-world-project-azoth-playtest-launch-status",
+          "title": "ExpCarry: Project Azoth playtest launch status",
+          "date": "2026-11-05 (modified)",
+          "patch": "Azoth Playtest 1–2"
+        }
+      ]
+    },
+    {
+      "step": 12,
+      "level_min": 65,
+      "level_max": 70,
+      "level_range": "65–70",
+      "zone": "Nighthaven (65)",
+      "activities": [
+        "Nighthaven MSQ 'The Tear of Gaea' from Tularest Abbey.",
+        "The quest tracker 'won't always tell you exactly where to go', so explore."
+      ],
+      "why_fast": "Biggest XP per quest in the game (official). You likely hit 70 about halfway through the MSQ. Generic 65+ quests give only ~3,000 XP.",
+      "xp_estimate": "~34,000 XP per quest, up to 62,000 with Soul Trial (official pre-2x values, Medium Oct 2025; Azoth rate unknown)",
+      "time_estimate": "estimate: ~3–5 h (official-server pace, no 2x assumed; Azoth XP rate unpublished)",
+      "azoth_status": "unverified on Azoth: Nighthaven should be in the client data but has not been shown on the server; out of scope for Playtest 2.",
+      "notes": null,
+      "map_path": "[AZOTH UNVERIFIED] Into Sunset: follow Morgaine to Nighthaven → Welcome to Nighthaven (Alecksi / Namkuzu; river crossing, bridge is out) → Tear of Gaea chain (The Shattered Island, Mysterious Benefactor, Connect the Dots, A Fool's Errand, The Magic Beneath, Ascending the Tower, The Wolf's Den, etc.). CONFLICT note: brief-v1 cited Tularest Abbey as the start (Medium, Oct 2025); current first named NPCs are Morgaine, Alecksi and Namkuzu. Map: Metaforge only https://metaforge.app/new-world/map/ (game-maps.com 404).",
+      "sources": [
+        {
+          "url": "https://medium.com/@eenkii2021/nighthaven-main-story-quest-chain-88c3ac765cb5",
+          "title": "Medium: Nighthaven Main Story Quest Chain",
+          "date": "~2025-10-20",
+          "patch": "S10 (pre-2x values)"
+        },
+        {
+          "url": "https://www.newworld.com/en-us/game/releases/nighthaven",
+          "title": "newworld.com: Nighthaven release notes",
+          "date": "2025-10-11",
+          "patch": "Season 10 (likely in 1.400 client data)"
+        },
+        {
+          "url": "https://expcarry.com/new-world-project-azoth-playtest-launch-status",
+          "title": "ExpCarry: Project Azoth playtest launch status",
+          "date": "2026-11-05 (modified)",
+          "patch": "Azoth Playtest 1–2"
+        }
+      ]
+    },
+    {
+      "step": 13,
+      "level_min": 70,
+      "level_max": 70,
+      "level_range": "70 (max)",
+      "zone": "Nighthaven / endgame",
+      "activities": [
+        "Max level: UNKNOWN on Azoth (not announced; client data implies a level-70 table).",
+        "Catacombs, Isle of Night and umbrals unlock at 70 on official servers (out of scope)."
+      ],
+      "why_fast": "End of route.",
+      "xp_estimate": null,
+      "time_estimate": null,
+      "azoth_status": "unverified on Azoth; out of scope for Playtest 2.",
+      "notes": "https://www.mmopixel.com/news/new-world-season-10-endgame-progression-guide-level-70-gear-score-800: (mmopixel: folded in from the old stray row; not in brief)",
+      "map_path": "[AZOTH UNVERIFIED] Nighthaven / endgame; no path in delta 3. Map: Metaforge only https://metaforge.app/new-world/map/",
+      "sources": [
+        {
+          "url": "https://www.newworld.com/en-us/game/releases/nighthaven",
+          "title": "newworld.com: Nighthaven release notes",
+          "date": "2025-10-11",
+          "patch": "Season 10 (likely in 1.400 client data)"
+        },
+        {
+          "url": "https://projectazoth.com/t/899",
+          "title": "Azoth Central: packet 899 field spec (level index up to 69)",
+          "date": "undated",
+          "patch": "Azoth, 1.400"
+        },
+        {
+          "url": "https://www.mmopixel.com/news/new-world-season-10-endgame-progression-guide-level-70-gear-score-800",
+          "title": "MMOPIXEL: S10 endgame guide (not in brief; folded from old stray Route row)",
+          "date": "undated",
+          "patch": "Season 10 (official)"
+        }
+      ]
+    },
+    {
+      "step": "Daily",
+      "level_min": 10,
+      "level_max": null,
+      "level_range": "Any ≥10 (every session)",
+      "zone": "Wherever you are; at 60+ Shattered Mountain",
+      "activities": [
+        "Official servers: do the first 3 faction missions each day for 5x rewards.",
+        "On Azoth faction missions aren't implemented, so skip this until the team confirms it."
+      ],
+      "why_fast": "Official: 5x rewards on the first 3. Icy Veins rates Shattered Mountain PvP missions 'the fastest to complete'.",
+      "xp_estimate": "no sourced figure",
+      "time_estimate": "no sourced figure",
+      "azoth_status": "not working on Azoth: mission-board packets not implemented; 5x daily bonus unverified.",
+      "notes": null,
+      "map_path": "No fixed path (wherever you are). Optional zones not on the current MSQ ID chain, usable for sides/board/faction missions if they work: First Light https://game-maps.com/NW/First-Light-Map.asp | Mourningdale https://game-maps.com/NW/Mourningdale-Map.asp | Reekwater https://game-maps.com/NW/Reekwater-Map.asp | Cutlass Keys https://game-maps.com/NW/Cutlass-Keys-Map.asp (all [OLD 2022]); Metaforge https://metaforge.app/new-world/map/",
+      "sources": [
+        {
+          "url": "https://www.icy-veins.com/new-world/leveling-strategy-guide",
+          "title": "Icy Veins: Leveling Strategy Guide",
+          "date": "2025-10-08 (updated)",
+          "patch": "S10 (official-server tips)"
+        },
+        {
+          "url": "https://projectazoth.com/api/types",
+          "title": "Azoth Central API: packet types (incl. /api/types/<idx> pages cited in Tips)",
+          "date": "2026-11-15",
+          "patch": "Azoth, 1.400"
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "item": "Flint (flintt1)",
+      "quantity": "1 (quest); tip: at least 4 for all four flint tools",
+      "needed_at": "Step 1 — beach MSQ, lvl 1, after Soul Survivor",
+      "purpose": "Basic Needs: craft a Flint Skinning Knife",
+      "gather_where": "Ground Flint nodes (and some small boulders) on the MB beach, near the quest markers. No tool needed.",
+      "station": null,
+      "flags": "AZOTH: gathering demonstrated in MB (ExpCarry, Nov 5 2026)",
+      "source_url": "https://nwdb.info/db/quest/12_skinningknife | https://nwdb.info/db/item/flintt1 | https://newworldnews.org/basic-needs/ | https://new-world.guide/db/quest/12_skinningknife"
+    },
+    {
+      "item": "Green Wood (woodt1)",
+      "quantity": "1 (quest); tip: at least 4 for all four flint tools",
+      "needed_at": "Step 1 — beach MSQ, lvl 1",
+      "purpose": "Basic Needs (same recipe)",
+      "gather_where": "Young Trees (nwdb nodes); Aeternum guides also say bushes on this quest, no tool needed.",
+      "station": null,
+      "flags": "AZOTH: gathering demonstrated in MB",
+      "source_url": "https://nwdb.info/db/item/woodt1 | https://thexamxam.com/2025/08/new-world-aeternum-levelling-tips-and-tricks-2025/"
+    },
+    {
+      "item": "Flint Skinning Knife",
+      "quantity": "1",
+      "needed_at": "Step 1 — beach MSQ, lvl 1",
+      "purpose": "Basic Needs; turn in to Urda",
+      "gather_where": "Craft, do not gather: 1 Flint + 1 Green Wood",
+      "station": "Camp T1 (Urda / Aelstrom's campfire) or Workshop T2; Engineering 0; known by default",
+      "flags": "AZOTH: crafting demonstrated in MB",
+      "source_url": "https://nwdb.info/db/recipe/1hskinningknifet1"
+    },
+    {
+      "item": "Logging Axe, Mining Pick, Harvesting Sickle (+ Skinning Knife)",
+      "quantity": "1 each; 1 Flint + 1 Green Wood each (4 + 4 total)",
+      "needed_at": "Step 1 — beach campfire",
+      "purpose": "Gathering tools so you don't have to come back (sourced tip)",
+      "gather_where": "Craft at the beach campfire; upgrade later to Iron tools (7 Iron Ingots + 2 Timber + 1 Coarse Leather; sickle is typical, Logging Axe is 12 / 3 / 2) at Workshop T2",
+      "station": "Camp T1 or Workshop T2; Engineering 0",
+      "flags": "Tip: thexamxam Aug 28 2025",
+      "source_url": "https://nwdb.info/db/recipe/1hskinningknifet1 | https://thexamxam.com/2025/08/new-world-aeternum-levelling-tips-and-tricks-2025/"
+    },
+    {
+      "item": "Pork (from a boar you kill and skin)",
+      "quantity": "UNKNOWN (quest: \"Hunt and skin a boar\")",
+      "needed_at": "Step 1 — beach MSQ, lvl 2",
+      "purpose": "Campfire Feast",
+      "gather_where": "Boars (also pigs) \"found all over Aeternum\"; on this step on the MB beach / near the campfire (quest markers). Needs the Flint Skinning Knife equipped.",
+      "station": "Skinning",
+      "flags": "Fextralife walkthrough [OLD] agrees",
+      "source_url": "https://nwdb.info/db/quest/12_boarfeast | https://nwdb.info/db/item/porkt1 | https://newworld.wiki.fextralife.com/Campfire_Feast"
+    },
+    {
+      "item": "Light Ration",
+      "quantity": "Recipe: 1× any Tier 1 Raw Food; quest count UNKNOWN (\"make some light rations\")",
+      "needed_at": "Step 1 — beach MSQ, lvl 2; keep cooking through the route",
+      "purpose": "Campfire Feast; cheap regen food (1% HP every 2s for 20 min); town board often wants low-level food",
+      "gather_where": "Craft. Raw food: skin boars/wolves/turkeys as you quest in MB and Everfall.",
+      "station": "Camp T1 or Kitchen T2; Cooking 0",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/recipe/procedural_healthrecoveryt1"
+    },
+    {
+      "item": "Truffles, Herbs or Berries",
+      "quantity": null,
+      "needed_at": "Step 1→2 — lvl 5, Truffle Fever (Hapless Howe, on the road into Prydwen during Bearer of Bad Tidings)",
+      "purpose": "Truffle Fever: \"Collect any Truffles you can find in the forest… Look for any Herbs or Berries you can gather as well.\"",
+      "gather_where": "The forest along the road into Prydwen",
+      "station": "Sickle: Prima says Howe lends one — not in the current quest desc, unverified",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/quest/1225_0101_truffles | https://primagames.com/tips/how-to-get-all-crafting-tools-in-new-world-aeternum"
+    },
+    {
+      "item": "Miners' heirloom picks",
+      "quantity": "10 (counted in Cemal's turn-in dialogue)",
+      "needed_at": "Step 2 — Prydwen, lvl 7, after The Knight-Regent",
+      "purpose": "Pick of the Mines (250 XP); unlocks Resources for Prydwen and Learn to Craft",
+      "gather_where": "Quest objects, not a tradeskill node. EST: the MB mines west/north of Prydwen (Cynefin / Mines de Miclot chain).",
+      "station": null,
+      "flags": "EST (location)",
+      "source_url": "https://nwdb.info/db/quest/12a_side_03_collectpicks | https://new-world.guide/db/quest/12a_side_03_collectpicks"
+    },
+    {
+      "item": "Stone",
+      "quantity": null,
+      "needed_at": "Step 2 — Prydwen, lvl 7, after Pick of the Mines",
+      "purpose": "Resources for Prydwen (180 XP; rewards Gathering Gloves, light hands; unlocks A Sword for a Friend)",
+      "gather_where": "Boulders along the MB roads around Prydwen (needs Mining Pick). If refined: 4 Stone → 1 Stone Block.",
+      "station": "Mining; Stonecutting Table T2 (if a block is wanted)",
+      "flags": "CONFLICT: older Isabella nwdb snapshot said \"Iron, Wood and Leather\" [OLD] — do not use; circulating \"10/10/10\" unverified",
+      "source_url": "https://nwdb.info/db/quest/12a_side_15_collectresources | https://new-world.guide/db/quest/12a_side_15_collectresources | https://nwdb.info/db/item/stonet1 | https://nwdb.info/db/recipe/blockt2"
+    },
+    {
+      "item": "Wood / Timber",
+      "quantity": null,
+      "needed_at": "Step 2 — Prydwen, lvl 7",
+      "purpose": "Resources for Prydwen (Cemal: \"stone, timber, and leather\")",
+      "gather_where": "Green Wood from Young Trees / bushes (Logging Axe for trees); 4 Green Wood → 1 Timber",
+      "station": "Logging; Woodshop T2",
+      "flags": "Exact item ID and count not in LIVE or new-world.guide data",
+      "source_url": "https://nwdb.info/db/quest/12a_side_15_collectresources | https://nwdb.info/db/recipe/timbert2 | https://nwdb.info/db/item/woodt1"
+    },
+    {
+      "item": "Leather (Rawhide → Coarse Leather)",
+      "quantity": null,
+      "needed_at": "Step 2 — Prydwen, lvl 7",
+      "purpose": "Resources for Prydwen",
+      "gather_where": "Rawhide from wolves, boars and other beasts; 4 Rawhide → 1 Coarse Leather if the quest wants leather rather than hide",
+      "station": "Skinning; Tannery T2",
+      "flags": "Exact item ID and count not in public data",
+      "source_url": "https://nwdb.info/db/quest/12a_side_15_collectresources | https://nwdb.info/db/recipe/leathert2 | https://nwdb.info/db/item/rawhidet1"
+    },
+    {
+      "item": "A sword (type not named; Heavy Satchel provided)",
+      "quantity": "1",
+      "needed_at": "Step 2 — Prydwen Forge, lvl 7",
+      "purpose": "A Sword for a Friend (180 XP); unlocks The Town Project Board",
+      "gather_where": "The satchel likely supplies the ore. If you craft it yourself: Iron Longsword = 7 Iron Ingots + 2 Timber + 1 Coarse Leather",
+      "station": "Forge T2; Weaponsmithing 0",
+      "flags": "EST that MB wants an Iron Longsword (only the WW quest names that weapon)",
+      "source_url": "https://nwdb.info/db/quest/12a_side_16_togooduse | https://new-world.guide/db/quest/06a_ts_02_forgesword | https://nwdb.info/db/recipe/procedural_longswordt2"
+    },
+    {
+      "item": "Devil's Honey combs (quest object)",
+      "quantity": null,
+      "needed_at": "Step 2 — MB, lvl 7 (optional side)",
+      "purpose": "Devil Honey (370 XP); turn in in Prydwen",
+      "gather_where": "Geertie Lother's reserve at Hiraeth Lookout. Not a wild herb node.",
+      "station": null,
+      "flags": "Optional side",
+      "source_url": "https://nwdb.info/db/quest/12a_side_13_devilhoney"
+    },
+    {
+      "item": "Wolf fangs",
+      "quantity": null,
+      "needed_at": "Step 3 — MB, lvl 12 (optional side)",
+      "purpose": "Dentistry Artistry (610 XP): \"Collect wolf fangs.\"",
+      "gather_where": "Wolves in MB",
+      "station": null,
+      "flags": "Optional side",
+      "source_url": "https://nwdb.info/db/quest/12a_side_08_gatherfangs"
+    },
+    {
+      "item": "Tincture ingredients (current list: UNKNOWN)",
+      "quantity": null,
+      "needed_at": "Step 6 — Everfall, lvl 20, after The Daughterwell (Adiana's camp ~0.9 km north of Everfall town)",
+      "purpose": "Weakness of the Ego (3,500 XP): \"Use Adiana's recipe to gather the ingredients to craft a tincture that will dampen the effects of Corruption.\" Reward: Peak Form (named hatchet, GS ~210–240) + 5× Common Health Potion",
+      "gather_where": "UNKNOWN — do not assume the 2021 list. First-hour check Dec 4: open the quest tracker and see what it actually asks for.",
+      "station": null,
+      "flags": "CONFLICT: Weakness of the Ego still says \"craft a tincture\", but Common Corruption Tincture is notObtainable in LIVE data with no recipe. The 2021 recipe (3 Water + 3 Petalcap + 3 Rivercress) is [OLD] and unverified. | [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/99a_msq_06_corruptiontincture | https://new-world.guide/db/quest/99a_msq_06_corruptiontincture"
+    },
+    {
+      "item": "[OLD] 3 Water + 3 Petalcaps + 3 Rivercress Stems → 3 Common Corruption Tinctures",
+      "quantity": "3 / 3 / 3 [OLD]",
+      "needed_at": "Step 6 — Everfall, lvl 20 (conflict reference only)",
+      "purpose": "2021-era Weakness of the Ego walkthrough",
+      "gather_where": "[OLD]: Petalcaps in Windsward grass (Fronded Petalcaps, no Harvesting requirement); Rivercress along the river between Everfall and Windsward, Harvesting 30, sickle required. LIVE item pages list no gatherable nodes for Petalcap / Rivercress.",
+      "station": "[OLD]: Arcane Repository. LIVE: only Infused Corruption Tincture exists (Arcana 50, Arcane Repository T2 or Camp T4) — not a lvl-20 craft",
+      "flags": "CONFLICT; [OLD]; unverified on current data and on Azoth",
+      "source_url": "https://nwdb.info/db/quest/99a_msq_06_corruptiontincture"
+    },
+    {
+      "item": "Azoth Staff components (quest objects, not tradeskill crafts)",
+      "quantity": null,
+      "needed_at": "Step 6 — Everfall Chapter 3, lvl 23–24",
+      "purpose": "Forgemaster's Legacy (Crosspiece, Vulcanus) and An Order Reborn (forge the staff beneath Shattered Obelisk); reward Azoth Staff (T1)",
+      "gather_where": "Vulcanus and the forge under Shattered Obelisk (Everfall) — quest interactives",
+      "station": "Quest interactives (no station recipe sourced)",
+      "flags": "[AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/99a_msq_10_getcrosspiece | https://nwdb.info/db/quest/99a_msq_11_forgestaff"
+    },
+    {
+      "item": "Liver and a ram's horn",
+      "quantity": "At least one each; exact counts UNKNOWN",
+      "needed_at": "Step 6 — Everfall side, after An Order Reborn / Hope and Service (Anwir Hughes)",
+      "purpose": "Cure For What Ails You",
+      "gather_where": "Sources not named beyond the turn-in line; do not invent nodes",
+      "station": null,
+      "flags": "Optional side; [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/04a_side08_01_getreagents | https://new-world.guide/db/quest/04a_side08_01_getreagents"
+    },
+    {
+      "item": "Hydrangeas",
+      "quantity": null,
+      "needed_at": "Step 6 — Everfall side (follows Cure For What Ails You)",
+      "purpose": "The Secret Ingredient; rewards Reinforced Alchemist's Robes (light chest)",
+      "gather_where": "Hydrangea nodes UNKNOWN — follow the quest tracker",
+      "station": null,
+      "flags": "Optional side; [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/04a_side08_02_secretingredient"
+    },
+    {
+      "item": "Case of Curatives (provided)",
+      "quantity": null,
+      "needed_at": "Step 6 — Everfall side (same chain)",
+      "purpose": "Potions for the People — deliver Anwir's elixir; not a gather/craft step",
+      "gather_where": null,
+      "station": null,
+      "flags": "Optional side; [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/04a_side08_03_deliverpotions"
+    },
+    {
+      "item": "Midnight Hides (quest item)",
+      "quantity": null,
+      "needed_at": "Step 6 — Everfall side",
+      "purpose": "Fine Furs For Fine Folk: \"Acquire Midnight Hides from Midnight Den.\"",
+      "gather_where": "Midnight Den (Everfall)",
+      "station": null,
+      "flags": "Optional side; [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/04a_side01_02_nicefurs"
+    },
+    {
+      "item": "Azoth Dust (quest object, not the travel currency)",
+      "quantity": null,
+      "needed_at": "Step 6 — Everfall side, unlocked from An Order Reborn",
+      "purpose": "Azoth Awakening",
+      "gather_where": "Ancient Guardians at towers Canus, Ursa and Monoceros (Everfall)",
+      "station": null,
+      "flags": "Optional side; [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/04a_side02_04_collectazoth"
+    },
+    {
+      "item": "Supply Run materials (Windsward)",
+      "quantity": null,
+      "needed_at": "Step 6b — Windsward (optional), after Money Talks",
+      "purpose": "Supply Run: \"Craft tools, then gather and refine the materials requested by Talesa Serrano.\"",
+      "gather_where": "UNKNOWN in the public DB",
+      "station": null,
+      "flags": "Optional; [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/06a_ts_01_gatherandrefine"
+    },
+    {
+      "item": "Iron Longsword (from provided satchel of ore)",
+      "quantity": "1",
+      "needed_at": "Step 6b — Windsward / Corinth (optional)",
+      "purpose": "Fire Up the Forge; turn in to Zhang Haoyu in Corinth",
+      "gather_where": "Provided satchel of ore: smelt, then forge",
+      "station": "Smelter / Forge",
+      "flags": "Optional; [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/06a_ts_02_forgesword | https://new-world.guide/db/quest/06a_ts_02_forgesword"
+    },
+    {
+      "item": "Seeds for an inoculate",
+      "quantity": "UNKNOWN (type, count and node)",
+      "needed_at": "Step 11 — Elysian gate, lvl 60 (Morgaine)",
+      "purpose": "The Invasion of Artemis (16,000 XP): \"Collect seeds for an inoculate to enter\" Elysian Wilds",
+      "gather_where": "UNKNOWN (not in the quest JSON)",
+      "station": null,
+      "flags": "EST: official Apr 21 2026 gate removal is after the likely 1.400 client, so this step may still be required on Azoth; [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/quest/09a_m1_enterzone_eg"
+    },
+    {
+      "item": "Weak Alkahest",
+      "quantity": "1 Water + 2 Hyssop (or Aloe Gel)",
+      "needed_at": "Any step (useful craft, not quest-gated)",
+      "purpose": "Ingredient for Weak Health Potion",
+      "gather_where": "Water: streams, lakes and rivers (river between MB, Everfall and Windsward is on the 15–25 path; settlement wells [OLD, still likely]). Hyssop: Herbs (Small/Medium/Large), sickle, common in starter zones. Aloe Gel: desert plant, not a starter-zone plant (EST) — prefer Hyssop.",
+      "station": "Camp T1 or Arcane Repository T2; Arcana 0",
+      "flags": "Settlement stations outside MB [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/recipe/procedural_alkahestt1 | https://nwdb.info/db/item/herbt1 | https://nwdb.info/db/item/aloegelt1 | https://nwdb.info/db/item/watert1"
+    },
+    {
+      "item": "Weak Health Potion",
+      "quantity": "1 Weak Alkahest + 1 Medicinal Reagent (easiest: Bulrush Cob)",
+      "needed_at": "Any step (high value while flagged)",
+      "purpose": "Survival: restore 400 + 10% max HP, 25s cooldown; town board often wants potions",
+      "gather_where": "Bulrush (Small/Medium) plants, typically at water — same rivers",
+      "station": "Camp T1 or Arcane Repository T2; Arcana 0",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/recipe/procedural_potionhealtht1 | https://nwdb.info/db/item/potionhealtht1 | https://nwdb.info/db/item/bulrushcobt1"
+    },
+    {
+      "item": "Common Health Potion / Common Regeneration Potion",
+      "quantity": "1 Common Alkahest (1 Water + 4 Hyssop or Aloe Gel) + 1 Medicinal Reagent; regen also 1 Life Reagent",
+      "needed_at": "Once you have Camp T2 or the Prydwen / Everfall repository",
+      "purpose": "Survival consumables",
+      "gather_where": "Same as above",
+      "station": "Common Alkahest: Arcana 1, Camp T2 or Arcane Repository T2; regen: Arcane Repository T2 only",
+      "flags": "Everfall repository [AZOTH UNVERIFIED]",
+      "source_url": "https://nwdb.info/db/recipe/procedural_potionhealtht2 | https://nwdb.info/db/recipe/procedural_potionregent2 | https://nwdb.info/db/recipe/procedural_alkahestt2"
+    },
+    {
+      "item": "Travel Ration (5 per craft)",
+      "quantity": "3 Tier 2 Raw Foods + 3 Raw Foods",
+      "needed_at": "Once Camp T2 is up",
+      "purpose": "Regen food",
+      "gather_where": "Raw food from skinning / gathering along the route",
+      "station": "Camp T2 or Kitchen T2; Cooking 1",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/recipe/procedural_healthrecoveryt2"
+    },
+    {
+      "item": "Pork Chops and Apple Sauce (yields 3)",
+      "quantity": "3 Pork + 3 Cooking Oil + 3 Nutmeg + 3 Apple + 3 Saltpeter",
+      "needed_at": "Cooking 15",
+      "purpose": "First Strength food (no Cooking-0 STR food exists)",
+      "gather_where": "Pork from boars/pigs; Apples from trees (not sourced in detail); Saltpeter from Saltpeter nodes; Cooking Oil is itself crafted (not expanded)",
+      "station": "Kitchen T2; Cooking 15",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/recipe/foodstrt2 | https://nwdb.info/db/item/saltpetert1"
+    },
+    {
+      "item": "Iron Hatchet",
+      "quantity": "7 Iron Ingots + 2 Timber + 1 Coarse Leather",
+      "needed_at": "Only if drops / faction vendors are thin",
+      "purpose": "Backup Hatchet",
+      "gather_where": "Iron Veins (Small/Medium/Large) → 4 Iron Ore = 1 Ingot (Smelter T2); Timber: 4 Green Wood; Coarse Leather: 4 Rawhide",
+      "station": "Forge T2; Engineering 0",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/recipe/procedural_hatchett2 | https://nwdb.info/db/item/oret1 | https://nwdb.info/db/recipe/ingott2"
+    },
+    {
+      "item": "Iron Longsword",
+      "quantity": "7 Iron Ingots + 2 Timber + 1 Coarse Leather",
+      "needed_at": "Only if drops / faction vendors are thin",
+      "purpose": "Backup sword (SnS)",
+      "gather_where": "Same as Iron Hatchet",
+      "station": "Forge T2; Weaponsmithing 0",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/recipe/procedural_longswordt2"
+    },
+    {
+      "item": "Iron Round Shield",
+      "quantity": "7 Iron Ingots + 2 Timber + 1 Coarse Leather",
+      "needed_at": "Only if drops / faction vendors are thin",
+      "purpose": "The light-load shield (kite/tower pushes you to Medium)",
+      "gather_where": "Same as Iron Hatchet",
+      "station": "Forge T2; Weaponsmithing 0",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/recipe/procedural_shieldroundt2"
+    },
+    {
+      "item": "Linen light set (Hat, Shirt, Gloves, Pants, Shoes)",
+      "quantity": "52 Linen + 31 Coarse Leather + 6 Iron Ingots total (= 208 Fibers + 124 Rawhide + 24 Iron Ore); Shirt is 22 Linen",
+      "needed_at": "Only if quest / faction gear is thin",
+      "purpose": "Light armor",
+      "gather_where": "Hemp (Small/Medium) plants → Fibers; 4 Fibers = 1 Linen (Loom T2)",
+      "station": "Outfitting Station T2; Armoring 0",
+      "flags": null,
+      "source_url": "https://nwdb.info/db/recipe/clotht2 | https://nwdb.info/db/item/fibert1"
+    }
+  ]
+}

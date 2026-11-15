@@ -1,0 +1,1519 @@
+[
+  {
+    "id": "iron_longsword",
+    "name": "Iron Longsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 0,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Iron Ingot",
+        "item_id": "iron_ingot",
+        "qty": 7,
+        "accepts_category": "Tier 2 Metals"
+      },
+      {
+        "item": "Timber",
+        "item_id": "timber",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Coarse Leather",
+        "item_id": "coarse_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 360,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_longswordt2",
+      "nwdb_recipe_id": "procedural_longswordt2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Iron Ingot: any 'Tier 2 Metals' accepted; default Iron Ingot used; Timber: any 'Refined Wood' accepted; default Timber used; Coarse Leather: any 'Leathers' accepted; default Coarse Leather used"
+  },
+  {
+    "id": "steel_longsword",
+    "name": "Steel Longsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 50,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Steel Ingot",
+        "item_id": "steel_ingot",
+        "qty": 8,
+        "accepts_category": "Tier 3 Metals"
+      },
+      {
+        "item": "Lumber",
+        "item_id": "lumber",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Rugged Leather",
+        "item_id": "rugged_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 1034,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_longswordt3",
+      "nwdb_recipe_id": "procedural_longswordt3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Steel Ingot: any 'Tier 3 Metals' accepted; default Steel Ingot used; Lumber: any 'Refined Wood' accepted; default Lumber used; Rugged Leather: any 'Leathers' accepted; default Rugged Leather used"
+  },
+  {
+    "id": "starmetal_longsword",
+    "name": "Starmetal Longsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 100,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Starmetal Ingot",
+        "item_id": "starmetal_ingot",
+        "qty": 9,
+        "accepts_category": "Tier 4 Metals"
+      },
+      {
+        "item": "Wyrdwood Planks",
+        "item_id": "wyrdwood_planks",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Layered Leather",
+        "item_id": "layered_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 3420,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_longswordt4",
+      "nwdb_recipe_id": "procedural_longswordt4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Starmetal Ingot: any 'Tier 4 Metals' accepted; default Starmetal Ingot used; Wyrdwood Planks: any 'Refined Wood' accepted; default Wyrdwood Planks used; Layered Leather: any 'Leathers' accepted; default Layered Leather used"
+  },
+  {
+    "id": "orichalcum_longsword",
+    "name": "Orichalcum Longsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 150,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Orichalcum Ingot",
+        "item_id": "orichalcum_ingot",
+        "qty": 10,
+        "accepts_category": "Tier 5 Metals"
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 10530,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_longswordt5",
+      "nwdb_recipe_id": "procedural_longswordt5",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Orichalcum Ingot: any 'Tier 5 Metals' accepted; default Orichalcum Ingot used; Ironwood Planks: any 'Refined Wood' accepted; default Ironwood Planks used; Infused Leather: any 'Leathers' accepted; default Infused Leather used"
+  },
+  {
+    "id": "mythril_longsword",
+    "name": "Mythril Longsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 205,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Mythril Ingot",
+        "item_id": "mythril_ingot",
+        "qty": 10,
+        "accepts_category": "Tier 5 Ingot (Rare)"
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 29016,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_longswordt52",
+      "nwdb_recipe_id": "procedural_longswordt52",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Mythril Ingot: any 'Tier 5 Ingot (Rare)' accepted; default Mythril Ingot used; Ironwood Planks: any 'Refined Wood' accepted; default Ironwood Planks used; Infused Leather: any 'Leathers' accepted; default Infused Leather used"
+  },
+  {
+    "id": "iron_greatsword",
+    "name": "Iron Greatsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 0,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Iron Ingot",
+        "item_id": "iron_ingot",
+        "qty": 11,
+        "accepts_category": "Tier 2 Metals"
+      },
+      {
+        "item": "Timber",
+        "item_id": "timber",
+        "qty": 7,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Coarse Leather",
+        "item_id": "coarse_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 720,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_2hgreatswordt2",
+      "nwdb_recipe_id": "procedural_2hgreatswordt2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Iron Ingot: any 'Tier 2 Metals' accepted; default Iron Ingot used; Timber: any 'Refined Wood' accepted; default Timber used; Coarse Leather: any 'Leathers' accepted; default Coarse Leather used"
+  },
+  {
+    "id": "steel_greatsword",
+    "name": "Steel Greatsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 50,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Steel Ingot",
+        "item_id": "steel_ingot",
+        "qty": 12,
+        "accepts_category": "Tier 3 Metals"
+      },
+      {
+        "item": "Lumber",
+        "item_id": "lumber",
+        "qty": 7,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Rugged Leather",
+        "item_id": "rugged_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 1974,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_2hgreatswordt3",
+      "nwdb_recipe_id": "procedural_2hgreatswordt3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Steel Ingot: any 'Tier 3 Metals' accepted; default Steel Ingot used; Lumber: any 'Refined Wood' accepted; default Lumber used; Rugged Leather: any 'Leathers' accepted; default Rugged Leather used"
+  },
+  {
+    "id": "starmetal_greatsword",
+    "name": "Starmetal Greatsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 100,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Starmetal Ingot",
+        "item_id": "starmetal_ingot",
+        "qty": 13,
+        "accepts_category": "Tier 4 Metals"
+      },
+      {
+        "item": "Wyrdwood Planks",
+        "item_id": "wyrdwood_planks",
+        "qty": 7,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Layered Leather",
+        "item_id": "layered_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 6270,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_2hgreatswordt4",
+      "nwdb_recipe_id": "procedural_2hgreatswordt4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Starmetal Ingot: any 'Tier 4 Metals' accepted; default Starmetal Ingot used; Wyrdwood Planks: any 'Refined Wood' accepted; default Wyrdwood Planks used; Layered Leather: any 'Leathers' accepted; default Layered Leather used"
+  },
+  {
+    "id": "orichalcum_greatsword",
+    "name": "Orichalcum Greatsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 150,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Orichalcum Ingot",
+        "item_id": "orichalcum_ingot",
+        "qty": 14,
+        "accepts_category": "Tier 5 Metals"
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 7,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 18630,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_2hgreatswordt5",
+      "nwdb_recipe_id": "procedural_2hgreatswordt5",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Orichalcum Ingot: any 'Tier 5 Metals' accepted; default Orichalcum Ingot used; Ironwood Planks: any 'Refined Wood' accepted; default Ironwood Planks used; Infused Leather: any 'Leathers' accepted; default Infused Leather used"
+  },
+  {
+    "id": "mythril_greatsword",
+    "name": "Mythril Greatsword",
+    "tradeskill": "Weaponsmithing",
+    "level_required": 205,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Mythril Ingot",
+        "item_id": "mythril_ingot",
+        "qty": 14,
+        "accepts_category": "Tier 5 Ingot (Rare)"
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 7,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 51336,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_2hgreatswordt52",
+      "nwdb_recipe_id": "procedural_2hgreatswordt52",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Mythril Ingot: any 'Tier 5 Ingot (Rare)' accepted; default Mythril Ingot used; Ironwood Planks: any 'Refined Wood' accepted; default Ironwood Planks used; Infused Leather: any 'Leathers' accepted; default Infused Leather used"
+  },
+  {
+    "id": "iron_hatchet",
+    "name": "Iron Hatchet",
+    "tradeskill": "Engineering",
+    "level_required": 0,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Iron Ingot",
+        "item_id": "iron_ingot",
+        "qty": 7,
+        "accepts_category": "Tier 2 Metals"
+      },
+      {
+        "item": "Timber",
+        "item_id": "timber",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Coarse Leather",
+        "item_id": "coarse_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 260,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_hatchett2",
+      "nwdb_recipe_id": "procedural_hatchett2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Iron Ingot: any 'Tier 2 Metals' accepted; default Iron Ingot used; Timber: any 'Refined Wood' accepted; default Timber used; Coarse Leather: any 'Leathers' accepted; default Coarse Leather used"
+  },
+  {
+    "id": "steel_hatchet",
+    "name": "Steel Hatchet",
+    "tradeskill": "Engineering",
+    "level_required": 50,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Steel Ingot",
+        "item_id": "steel_ingot",
+        "qty": 8,
+        "accepts_category": "Tier 3 Metals"
+      },
+      {
+        "item": "Lumber",
+        "item_id": "lumber",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Rugged Leather",
+        "item_id": "rugged_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 968,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_hatchett3",
+      "nwdb_recipe_id": "procedural_hatchett3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Steel Ingot: any 'Tier 3 Metals' accepted; default Steel Ingot used; Lumber: any 'Refined Wood' accepted; default Lumber used; Rugged Leather: any 'Leathers' accepted; default Rugged Leather used"
+  },
+  {
+    "id": "starmetal_hatchet",
+    "name": "Starmetal Hatchet",
+    "tradeskill": "Engineering",
+    "level_required": 100,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Starmetal Ingot",
+        "item_id": "starmetal_ingot",
+        "qty": 9,
+        "accepts_category": "Tier 4 Metals"
+      },
+      {
+        "item": "Wyrdwood Planks",
+        "item_id": "wyrdwood_planks",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Layered Leather",
+        "item_id": "layered_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 3420,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_hatchett4",
+      "nwdb_recipe_id": "procedural_hatchett4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Starmetal Ingot: any 'Tier 4 Metals' accepted; default Starmetal Ingot used; Wyrdwood Planks: any 'Refined Wood' accepted; default Wyrdwood Planks used; Layered Leather: any 'Leathers' accepted; default Layered Leather used"
+  },
+  {
+    "id": "orichalcum_hatchet",
+    "name": "Orichalcum Hatchet",
+    "tradeskill": "Engineering",
+    "level_required": 150,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Orichalcum Ingot",
+        "item_id": "orichalcum_ingot",
+        "qty": 10,
+        "accepts_category": "Tier 5 Metals"
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 10530,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_hatchett5",
+      "nwdb_recipe_id": "procedural_hatchett5",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Orichalcum Ingot: any 'Tier 5 Metals' accepted; default Orichalcum Ingot used; Ironwood Planks: any 'Refined Wood' accepted; default Ironwood Planks used; Infused Leather: any 'Leathers' accepted; default Infused Leather used"
+  },
+  {
+    "id": "mythril_hatchet",
+    "name": "Mythril Hatchet",
+    "tradeskill": "Engineering",
+    "level_required": 205,
+    "station": "Forge",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Mythril Ingot",
+        "item_id": "mythril_ingot",
+        "qty": 10,
+        "accepts_category": "Tier 5 Ingot (Rare)"
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 2,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 1,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 29016,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_hatchett52",
+      "nwdb_recipe_id": "procedural_hatchett52",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Mythril Ingot: any 'Tier 5 Ingot (Rare)' accepted; default Mythril Ingot used; Ironwood Planks: any 'Refined Wood' accepted; default Ironwood Planks used; Infused Leather: any 'Leathers' accepted; default Infused Leather used"
+  },
+  {
+    "id": "flint_logging_axe",
+    "name": "Flint Logging Axe",
+    "tradeskill": "Engineering",
+    "level_required": 0,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Flint",
+        "item_id": "flint",
+        "qty": 1
+      },
+      {
+        "item": "Green Wood",
+        "item_id": "green_wood",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 0,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/1hhatchett1",
+      "nwdb_recipe_id": "1hhatchett1",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "alternative stations: Workshop T2, Camp T1"
+  },
+  {
+    "id": "iron_logging_axe",
+    "name": "Iron Logging Axe",
+    "tradeskill": "Engineering",
+    "level_required": 0,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Iron Ingot",
+        "item_id": "iron_ingot",
+        "qty": 12,
+        "accepts_category": "Tier 2 Metals"
+      },
+      {
+        "item": "Timber",
+        "item_id": "timber",
+        "qty": 3,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Coarse Leather",
+        "item_id": "coarse_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 442,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_loggingaxet2",
+      "nwdb_recipe_id": "procedural_loggingaxet2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Iron Ingot: any 'Tier 2 Metals' accepted; default Iron Ingot used; Timber: any 'Refined Wood' accepted; default Timber used; Coarse Leather: any 'Leathers' accepted; default Coarse Leather used"
+  },
+  {
+    "id": "steel_logging_axe",
+    "name": "Steel Logging Axe",
+    "tradeskill": "Engineering",
+    "level_required": 50,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Steel Ingot",
+        "item_id": "steel_ingot",
+        "qty": 13,
+        "accepts_category": "Tier 3 Metals"
+      },
+      {
+        "item": "Lumber",
+        "item_id": "lumber",
+        "qty": 3,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Rugged Leather",
+        "item_id": "rugged_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 1584,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_loggingaxet3",
+      "nwdb_recipe_id": "procedural_loggingaxet3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Steel Ingot: any 'Tier 3 Metals' accepted; default Steel Ingot used; Lumber: any 'Refined Wood' accepted; default Lumber used; Rugged Leather: any 'Leathers' accepted; default Rugged Leather used"
+  },
+  {
+    "id": "starmetal_logging_axe",
+    "name": "Starmetal Logging Axe",
+    "tradeskill": "Engineering",
+    "level_required": 100,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Starmetal Ingot",
+        "item_id": "starmetal_ingot",
+        "qty": 14,
+        "accepts_category": "Tier 4 Metals"
+      },
+      {
+        "item": "Wyrdwood Planks",
+        "item_id": "wyrdwood_planks",
+        "qty": 3,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Layered Leather",
+        "item_id": "layered_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 5415,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_loggingaxet4",
+      "nwdb_recipe_id": "procedural_loggingaxet4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Starmetal Ingot: any 'Tier 4 Metals' accepted; default Starmetal Ingot used; Wyrdwood Planks: any 'Refined Wood' accepted; default Wyrdwood Planks used; Layered Leather: any 'Leathers' accepted; default Layered Leather used"
+  },
+  {
+    "id": "iron_blunderbuss",
+    "name": "Iron Blunderbuss",
+    "tradeskill": "Engineering",
+    "level_required": 0,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Iron Ingot",
+        "item_id": "iron_ingot",
+        "qty": 7,
+        "accepts_category": "Tier 2 Metals"
+      },
+      {
+        "item": "Timber",
+        "item_id": "timber",
+        "qty": 8,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Coarse Leather",
+        "item_id": "coarse_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 442,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_blunderbusst2",
+      "nwdb_recipe_id": "procedural_blunderbusst2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Iron Ingot: any 'Tier 2 Metals' accepted; default Iron Ingot used; Timber: any 'Refined Wood' accepted; default Timber used; Coarse Leather: any 'Leathers' accepted; default Coarse Leather used"
+  },
+  {
+    "id": "steel_blunderbuss",
+    "name": "Steel Blunderbuss",
+    "tradeskill": "Engineering",
+    "level_required": 50,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Steel Ingot",
+        "item_id": "steel_ingot",
+        "qty": 8,
+        "accepts_category": "Tier 3 Metals"
+      },
+      {
+        "item": "Lumber",
+        "item_id": "lumber",
+        "qty": 8,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Rugged Leather",
+        "item_id": "rugged_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 1584,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_blunderbusst3",
+      "nwdb_recipe_id": "procedural_blunderbusst3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Steel Ingot: any 'Tier 3 Metals' accepted; default Steel Ingot used; Lumber: any 'Refined Wood' accepted; default Lumber used; Rugged Leather: any 'Leathers' accepted; default Rugged Leather used"
+  },
+  {
+    "id": "starmetal_blunderbuss",
+    "name": "Starmetal Blunderbuss",
+    "tradeskill": "Engineering",
+    "level_required": 100,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Starmetal Ingot",
+        "item_id": "starmetal_ingot",
+        "qty": 8,
+        "accepts_category": "Tier 4 Metals"
+      },
+      {
+        "item": "Wyrdwood Planks",
+        "item_id": "wyrdwood_planks",
+        "qty": 9,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Layered Leather",
+        "item_id": "layered_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 5415,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_blunderbusst4",
+      "nwdb_recipe_id": "procedural_blunderbusst4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Starmetal Ingot: any 'Tier 4 Metals' accepted; default Starmetal Ingot used; Wyrdwood Planks: any 'Refined Wood' accepted; default Wyrdwood Planks used; Layered Leather: any 'Leathers' accepted; default Layered Leather used"
+  },
+  {
+    "id": "orichalcum_blunderbuss",
+    "name": "Orichalcum Blunderbuss",
+    "tradeskill": "Engineering",
+    "level_required": 150,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Orichalcum Ingot",
+        "item_id": "orichalcum_ingot",
+        "qty": 9,
+        "accepts_category": "Tier 5 Metals"
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 9,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 16200,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_blunderbusst5",
+      "nwdb_recipe_id": "procedural_blunderbusst5",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Orichalcum Ingot: any 'Tier 5 Metals' accepted; default Orichalcum Ingot used; Ironwood Planks: any 'Refined Wood' accepted; default Ironwood Planks used; Infused Leather: any 'Leathers' accepted; default Infused Leather used"
+  },
+  {
+    "id": "mythril_blunderbuss",
+    "name": "Mythril Blunderbuss",
+    "tradeskill": "Engineering",
+    "level_required": 205,
+    "station": "Workshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Mythril Ingot",
+        "item_id": "mythril_ingot",
+        "qty": 9,
+        "accepts_category": "Tier 5 Ingot (Rare)"
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 9,
+        "accepts_category": "Refined Wood"
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 2,
+        "accepts_category": "Leathers"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 44640,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/procedural_blunderbusst52",
+      "nwdb_recipe_id": "procedural_blunderbusst52",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Mythril Ingot: any 'Tier 5 Ingot (Rare)' accepted; default Mythril Ingot used; Ironwood Planks: any 'Refined Wood' accepted; default Ironwood Planks used; Infused Leather: any 'Leathers' accepted; default Infused Leather used"
+  },
+  {
+    "id": "iron_ingot",
+    "name": "Iron Ingot",
+    "tradeskill": "Smelting",
+    "level_required": 0,
+    "station": "Smelter",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Iron Ore",
+        "item_id": "iron_ore",
+        "qty": 4
+      }
+    ],
+    "output_qty": 1,
+    "xp": 44,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/ingott2",
+      "nwdb_recipe_id": "ingott2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": null
+  },
+  {
+    "id": "steel_ingot",
+    "name": "Steel Ingot",
+    "tradeskill": "Smelting",
+    "level_required": 50,
+    "station": "Smelter",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Iron Ingot",
+        "item_id": "iron_ingot",
+        "qty": 3
+      },
+      {
+        "item": "Obsidian Flux",
+        "item_id": "obsidian_flux",
+        "qty": 1
+      },
+      {
+        "item": "Charcoal",
+        "item_id": "charcoal",
+        "qty": 2
+      }
+    ],
+    "output_qty": 1,
+    "xp": 276,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/ingott3",
+      "nwdb_recipe_id": "ingott3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "starmetal_ingot",
+    "name": "Starmetal Ingot",
+    "tradeskill": "Smelting",
+    "level_required": 100,
+    "station": "Smelter",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Starmetal Ore",
+        "item_id": "starmetal_ore",
+        "qty": 6
+      },
+      {
+        "item": "Steel Ingot",
+        "item_id": "steel_ingot",
+        "qty": 2
+      },
+      {
+        "item": "Obsidian Flux",
+        "item_id": "obsidian_flux",
+        "qty": 1
+      },
+      {
+        "item": "Charcoal",
+        "item_id": "charcoal",
+        "qty": 2
+      }
+    ],
+    "output_qty": 1,
+    "xp": 2442,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/ingott4",
+      "nwdb_recipe_id": "ingott4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "orichalcum_ingot",
+    "name": "Orichalcum Ingot",
+    "tradeskill": "Smelting",
+    "level_required": 150,
+    "station": "Smelter",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Orichalcum Ore",
+        "item_id": "orichalcum_ore",
+        "qty": 8
+      },
+      {
+        "item": "Starmetal Ingot",
+        "item_id": "starmetal_ingot",
+        "qty": 2
+      },
+      {
+        "item": "Obsidian Flux",
+        "item_id": "obsidian_flux",
+        "qty": 1
+      },
+      {
+        "item": "Charcoal",
+        "item_id": "charcoal",
+        "qty": 2
+      }
+    ],
+    "output_qty": 1,
+    "xp": 12012,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/ingott5",
+      "nwdb_recipe_id": "ingott5",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "mythril_ingot",
+    "name": "Mythril Ingot",
+    "tradeskill": "Smelting",
+    "level_required": 205,
+    "station": "Smelter",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Mythril Ore",
+        "item_id": "mythril_ore",
+        "qty": 12
+      },
+      {
+        "item": "Orichalcum Ingot",
+        "item_id": "orichalcum_ingot",
+        "qty": 2
+      },
+      {
+        "item": "Obsidian Flux",
+        "item_id": "obsidian_flux",
+        "qty": 1
+      },
+      {
+        "item": "Charcoal",
+        "item_id": "charcoal",
+        "qty": 2
+      }
+    ],
+    "output_qty": 1,
+    "xp": 43299,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/ingott52",
+      "nwdb_recipe_id": "ingott52",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "charcoal",
+    "name": "Charcoal",
+    "tradeskill": "Smelting",
+    "level_required": 0,
+    "station": "Smelter",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Green Wood",
+        "item_id": "green_wood",
+        "qty": 2,
+        "accepts_category": "Wood"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 22,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/charcoalt1",
+      "nwdb_recipe_id": "charcoalt1",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "Green Wood: any 'Wood' accepted; default Green Wood used"
+  },
+  {
+    "id": "timber",
+    "name": "Timber",
+    "tradeskill": "Woodworking",
+    "level_required": 0,
+    "station": "Woodshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Green Wood",
+        "item_id": "green_wood",
+        "qty": 4
+      }
+    ],
+    "output_qty": 1,
+    "xp": 44,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/timbert2",
+      "nwdb_recipe_id": "timbert2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": null
+  },
+  {
+    "id": "lumber",
+    "name": "Lumber",
+    "tradeskill": "Woodworking",
+    "level_required": 50,
+    "station": "Woodshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Aged Wood",
+        "item_id": "aged_wood",
+        "qty": 4
+      },
+      {
+        "item": "Timber",
+        "item_id": "timber",
+        "qty": 2
+      },
+      {
+        "item": "Obsidian Sandpaper",
+        "item_id": "obsidian_sandpaper",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 322,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/timbert3",
+      "nwdb_recipe_id": "timbert3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "wyrdwood_planks",
+    "name": "Wyrdwood Planks",
+    "tradeskill": "Woodworking",
+    "level_required": 100,
+    "station": "Woodshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Wyrdwood",
+        "item_id": "wyrdwood",
+        "qty": 6
+      },
+      {
+        "item": "Lumber",
+        "item_id": "lumber",
+        "qty": 2
+      },
+      {
+        "item": "Obsidian Sandpaper",
+        "item_id": "obsidian_sandpaper",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 1998,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/timbert4",
+      "nwdb_recipe_id": "timbert4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "ironwood_planks",
+    "name": "Ironwood Planks",
+    "tradeskill": "Woodworking",
+    "level_required": 150,
+    "station": "Woodshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Ironwood",
+        "item_id": "ironwood",
+        "qty": 8
+      },
+      {
+        "item": "Wyrdwood Planks",
+        "item_id": "wyrdwood_planks",
+        "qty": 2
+      },
+      {
+        "item": "Obsidian Sandpaper",
+        "item_id": "obsidian_sandpaper",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 10164,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/timbert5",
+      "nwdb_recipe_id": "timbert5",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "runewood_planks",
+    "name": "Runewood Planks",
+    "tradeskill": "Woodworking",
+    "level_required": 205,
+    "station": "Woodshop",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Runewood",
+        "item_id": "runewood",
+        "qty": 12
+      },
+      {
+        "item": "Ironwood Planks",
+        "item_id": "ironwood_planks",
+        "qty": 2
+      },
+      {
+        "item": "Obsidian Sandpaper",
+        "item_id": "obsidian_sandpaper",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 38205,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/timbert52",
+      "nwdb_recipe_id": "timbert52",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "coarse_leather",
+    "name": "Coarse Leather",
+    "tradeskill": "Leatherworking",
+    "level_required": 0,
+    "station": "Tannery",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Rawhide",
+        "item_id": "rawhide",
+        "qty": 4
+      }
+    ],
+    "output_qty": 1,
+    "xp": 44,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/leathert2",
+      "nwdb_recipe_id": "leathert2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": null
+  },
+  {
+    "id": "rugged_leather",
+    "name": "Rugged Leather",
+    "tradeskill": "Leatherworking",
+    "level_required": 50,
+    "station": "Tannery",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Coarse Leather",
+        "item_id": "coarse_leather",
+        "qty": 4
+      },
+      {
+        "item": "Aged Tannin",
+        "item_id": "aged_tannin",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 230,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/leathert3",
+      "nwdb_recipe_id": "leathert3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "layered_leather",
+    "name": "Layered Leather",
+    "tradeskill": "Leatherworking",
+    "level_required": 100,
+    "station": "Tannery",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Thick Hide",
+        "item_id": "thick_hide",
+        "qty": 6
+      },
+      {
+        "item": "Rugged Leather",
+        "item_id": "rugged_leather",
+        "qty": 2
+      },
+      {
+        "item": "Aged Tannin",
+        "item_id": "aged_tannin",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 1998,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/leathert4",
+      "nwdb_recipe_id": "leathert4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "infused_leather",
+    "name": "Infused Leather",
+    "tradeskill": "Leatherworking",
+    "level_required": 150,
+    "station": "Tannery",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Layered Leather",
+        "item_id": "layered_leather",
+        "qty": 2
+      },
+      {
+        "item": "Aged Tannin",
+        "item_id": "aged_tannin",
+        "qty": 1
+      },
+      {
+        "item": "Iron Hide",
+        "item_id": "iron_hide",
+        "qty": 8,
+        "accepts_category": "Hide Tier 5"
+      }
+    ],
+    "output_qty": 1,
+    "xp": 10164,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/leathert5",
+      "nwdb_recipe_id": "leathert5",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base; Iron Hide: any 'Hide Tier 5' accepted; default Iron Hide used"
+  },
+  {
+    "id": "dark_leather",
+    "name": "Dark Leather",
+    "tradeskill": "Leatherworking",
+    "level_required": 205,
+    "station": "Tannery",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Dark Hide",
+        "item_id": "dark_hide",
+        "qty": 16
+      },
+      {
+        "item": "Infused Leather",
+        "item_id": "infused_leather",
+        "qty": 2
+      },
+      {
+        "item": "Aged Tannin",
+        "item_id": "aged_tannin",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 48393,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/leathert52",
+      "nwdb_recipe_id": "leathert52",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "linen",
+    "name": "Linen",
+    "tradeskill": "Weaving",
+    "level_required": 0,
+    "station": "Loom",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Fibers",
+        "item_id": "fibers",
+        "qty": 4
+      }
+    ],
+    "output_qty": 1,
+    "xp": 44,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/clotht2",
+      "nwdb_recipe_id": "clotht2",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "not needed for sword/hatchet"
+  },
+  {
+    "id": "sateen",
+    "name": "Sateen",
+    "tradeskill": "Weaving",
+    "level_required": 50,
+    "station": "Loom",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Linen",
+        "item_id": "linen",
+        "qty": 4
+      },
+      {
+        "item": "Wireweave",
+        "item_id": "wireweave",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 230,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/clotht3",
+      "nwdb_recipe_id": "clotht3",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "silk",
+    "name": "Silk",
+    "tradeskill": "Weaving",
+    "level_required": 100,
+    "station": "Loom",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Silk Threads",
+        "item_id": "silk_threads",
+        "qty": 6
+      },
+      {
+        "item": "Sateen",
+        "item_id": "sateen",
+        "qty": 2
+      },
+      {
+        "item": "Wireweave",
+        "item_id": "wireweave",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 1998,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/clotht4",
+      "nwdb_recipe_id": "clotht4",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  },
+  {
+    "id": "infused_silk",
+    "name": "Infused Silk",
+    "tradeskill": "Weaving",
+    "level_required": 150,
+    "station": "Loom",
+    "station_tier": 2,
+    "ingredients": [
+      {
+        "item": "Wirefiber",
+        "item_id": "wirefiber",
+        "qty": 8
+      },
+      {
+        "item": "Silk",
+        "item_id": "silk",
+        "qty": 2
+      },
+      {
+        "item": "Wireweave",
+        "item_id": "wireweave",
+        "qty": 1
+      }
+    ],
+    "output_qty": 1,
+    "xp": 10164,
+    "source": {
+      "url": "https://nwdb.info/db/recipe/clotht5",
+      "nwdb_recipe_id": "clotht5",
+      "accessed": "2026-11-15",
+      "patch": "nwdb data version LIVE 11/04/2025 (Season 10, post-Aeternum)"
+    },
+    "notes": "refining bonus yield exists (estimate, not modeled); output_qty is base"
+  }
+]

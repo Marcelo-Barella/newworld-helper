@@ -1,0 +1,2339 @@
+{
+ "meta": {
+  "generated": "2026-11-15T18:25-03:00",
+  "game": "New World: Aeternum",
+  "patch": "Season 10 Nighthaven + Oct-2026 QoL patch (no gathering changes); servers offline 2027-01-31",
+  "notes": [
+   "x/y always null: no sourced coordinates; use linked aeternum-map.th.gl routes for paths",
+   "respawn = nwdb datamined base values",
+   "null = not given by any source"
+  ]
+ },
+ "routes": [
+  {
+   "id": "nw-route-001",
+   "name": "Everfall Iron (community)",
+   "region": "Everfall",
+   "materials": [
+    "iron ore"
+   ],
+   "tier": "T1",
+   "waypoints": [
+    {
+     "name": "Everfall settlement",
+     "x": null,
+     "y": null,
+     "contents": "Oxboro"
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "51 iron",
+   "loop_time": null,
+   "tradeskill_req": "Mining 0 (track 25)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low – starter zone",
+   "nearest_town": "Everfall settlement",
+   "zone_level": "1–25 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/61788a640d5c35c399ae187e (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)",
+    "https://gamerant.com/new-world-aeternum-mining-leveling-farming-fast/"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-002",
+   "name": "Ferro Guarda/Queda (community, most used)",
+   "region": "Windsward + Everfall",
+   "materials": [
+    "iron ore"
+   ],
+   "tier": "T1",
+   "waypoints": [
+    {
+     "name": "Windsward settlement",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Everfall",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "466 iron",
+   "loop_time": null,
+   "tradeskill_req": "Mining 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low; contested by other players",
+   "nearest_town": "Windsward / Everfall settlements",
+   "zone_level": "1–25 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/64fbf9d0fb052a951177ce43 (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-003",
+   "name": "Spyglass Ridge Hamlet loop",
+   "region": "Cutlass Keys (border Monarch's Bluffs)",
+   "materials": [
+    "iron ore"
+   ],
+   "tier": "T1",
+   "waypoints": [
+    {
+     "name": "Spyglass Ridge Hamlet",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "north to MB border",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "east, U-turn west back to start",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Mining 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low; few players; near Cursed Mists",
+   "nearest_town": "Cutlass Keys settlement",
+   "zone_level": "28–40 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://gamesfuze.com/locations/new-world-aeternum-best-iron-ore-farms/"
+   ],
+   "notes": "node_count: \"not many nodes\""
+  },
+  {
+   "id": "nw-route-004",
+   "name": "Corinth south zig-zag",
+   "region": "Windsward",
+   "materials": [
+    "iron ore"
+   ],
+   "tier": "T1",
+   "waypoints": [
+    {
+     "name": "Corinth",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "south",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "zig-zag west",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Mining 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low mobs; very contested",
+   "nearest_town": "Windsward settlement (Corinth)",
+   "zone_level": "1–25 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://gamesfuze.com/locations/new-world-aeternum-best-iron-ore-farms/"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-005",
+   "name": "SilverBenaFinal (community)",
+   "region": "Everfall + Brightwood",
+   "materials": [
+    "silver ore"
+   ],
+   "tier": "T2",
+   "waypoints": [
+    {
+     "name": "Everfall",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "62 silver",
+   "loop_time": null,
+   "tradeskill_req": "Mining 10 (track 35)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low",
+   "nearest_town": "Everfall settlement",
+   "zone_level": "1–35 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/618fffb02dfe162166d9dacf (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-006",
+   "name": "Dunkelberg gold run",
+   "region": "Weaver's Fen",
+   "materials": [
+    "gold ore"
+   ],
+   "tier": "T3",
+   "waypoints": [
+    {
+     "name": "Dunkelberg Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "SW of oil fields",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Mining 45 (track 70)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Weaver's Fen settlement",
+   "zone_level": "30–40 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)",
+    "https://aeternum-map.th.gl/routes/636c5e02ced922c8e7de3b68 (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-007",
+   "name": "5 MIN GOLD ORE RUN (community)",
+   "region": "Great Cleave",
+   "materials": [
+    "gold ore"
+   ],
+   "tier": "T3",
+   "waypoints": [
+    {
+     "name": "Great Cleave",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m (nwdb)",
+   "node_count": "26 gold",
+   "loop_time": "~5 min (per route title, unverified)",
+   "tradeskill_req": "Mining 45",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium-high; corrupted mobs",
+   "nearest_town": "Great Cleave outpost",
+   "zone_level": "41–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/63bb85617d6f6e01493122cc (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-008",
+   "name": "Sharptooth Pass → Edgeflow",
+   "region": "Reekwater",
+   "materials": [
+    "platinum ore"
+   ],
+   "tier": "T4",
+   "waypoints": [
+    {
+     "name": "Sharptooth Pass",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Edgeflow",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "20–25 platinum (gamerant)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 110 (track 135)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium; lvl ~58–60 mobs",
+   "nearest_town": "Reekwater settlement",
+   "zone_level": "58–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://gamerant.com/new-world-aeternum-mining-leveling-farming-fast/",
+    "https://aeternum-map.th.gl/routes/636c5facced922c8e7de3b6a (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-009",
+   "name": "Genesis triangle (Malevolence/Spite/Malice)",
+   "region": "Edengrove",
+   "materials": [
+    "platinum ore"
+   ],
+   "tier": "T4",
+   "waypoints": [
+    {
+     "name": "Genesis of Malevolence",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Spite",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Malice",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "25–26 (community routes)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 110",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; Angry Earth/corruption around tower",
+   "nearest_town": "Last Stand Outpost",
+   "zone_level": "50–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://gamerant.com/new-world-aeternum-mining-leveling-farming-fast/",
+    "https://aeternum-map.th.gl/routes/63bf3e8969abb3dd6ca8abad (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-010",
+   "name": "Great Cleave Starmetal (Braided Hills → Hollowing)",
+   "region": "Great Cleave",
+   "materials": [
+    "starmetal ore"
+   ],
+   "tier": "T3",
+   "waypoints": [
+    {
+     "name": "west Great Cleave",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "SE through clusters",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "cliff base",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "NE back up",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "The Hollowing",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "51 starmetal (community route); 12–15 Braided Hills + ~10 Hollowing (gamerant)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 100 (track 125)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium-high; corrupted",
+   "nearest_town": "Great Cleave outpost",
+   "zone_level": "41–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/617d7a0e5d2748d9414cb081 (community route; node counts from route metadata, last used per site 2026)",
+    "https://gamerant.com/new-world-aeternum-mining-leveling-farming-fast/",
+    "https://www.highgroundgaming.com/new-world-starmetal-farm-guide/",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-011",
+   "name": "Starmetal Weavers Fen + Brightwood→WF long run",
+   "region": "Weaver's Fen / Brightwood",
+   "materials": [
+    "starmetal ore"
+   ],
+   "tier": "T3",
+   "waypoints": [
+    {
+     "name": "Calvary",
+     "x": null,
+     "y": null,
+     "contents": "Brightwood"
+    },
+    {
+     "name": "Weaver's Fen",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "54 (WF community route)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 100",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Brightwood / Weaver's Fen settlements",
+   "zone_level": "27–40 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/63698f983a698da0e1347520 (community route; node counts from route metadata, last used per site 2026)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-012",
+   "name": "Rothoard Hollow cave",
+   "region": "Cutlass Keys",
+   "materials": [
+    "starmetal ore"
+   ],
+   "tier": "T3",
+   "waypoints": [
+    {
+     "name": "Rothoard Hollow",
+     "x": null,
+     "y": null,
+     "contents": "≈200m S of settlement"
+    },
+    {
+     "name": "east edge, hug wall",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "10 starmetal + some gold (HGG)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 100",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium; ~lvl 30 mobs in cave",
+   "nearest_town": "Cutlass Keys settlement",
+   "zone_level": "28–40 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://www.highgroundgaming.com/new-world-starmetal-farm-guide/"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-013",
+   "name": "no fighting, semi AFK Orichalcum route (community)",
+   "region": "Edengrove",
+   "materials": [
+    "orichalcum ore"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Edengrove",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base); gamerant quotes older 17–34 min – conflicting",
+   "node_count": "19 orichalcum",
+   "loop_time": null,
+   "tradeskill_req": "Mining 150 (track 200)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low per route title",
+   "nearest_town": "Last Stand Outpost",
+   "zone_level": "50–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/636479ef81a948bc8af43f05 (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)",
+    "https://gamerant.com/new-world-aeternum-mining-leveling-farming-fast/"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-014",
+   "name": "Imperial Shrine / Imperial Palace run",
+   "region": "Ebonscale Reach",
+   "materials": [
+    "orichalcum ore"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Imperial Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "18 orichalcum (community route)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 150",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium-high; elite POI nearby",
+   "nearest_town": "Ebonscale Reach settlement",
+   "zone_level": "51–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)",
+    "https://aeternum-map.th.gl/routes/6173cbfd5fd61e028f1fc70d (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-015",
+   "name": "Dynasty Landing → Thunder Cradle/Palewind Terrace",
+   "region": "Ebonscale Reach",
+   "materials": [
+    "orichalcum ore"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Dynasty Landing",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Thunder Cradle",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Palewind Terrace",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "~20 SW Ebonscale (gamerant); Dynasty Landing 25 large spawn points (new-world.guide)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 150",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium-high",
+   "nearest_town": "Ebonscale Reach settlement",
+   "zone_level": "51–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://gamerant.com/new-world-aeternum-mining-leveling-farming-fast/",
+    "https://new-world.guide/db/gatherable/oreveinorichalcumlarge"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-016",
+   "name": "Shrine of Sisyphos route (Chronos)",
+   "region": "Restless Shore",
+   "materials": [
+    "mythril ore"
+   ],
+   "tier": "T5 (top ore)",
+   "waypoints": [
+    {
+     "name": "Shrine of Sisyphos",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Shiresad Beach",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Bubbly Bay",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Verdant Ascent",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "part of \">100 nodes\" across 2 routes; \"THE mithril route!\" community route = 49",
+   "loop_time": null,
+   "tradeskill_req": "Mining 205",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium; Angry Earth",
+   "nearest_town": "Restless Shore settlement",
+   "zone_level": "42–46 (2021 list)",
+   "patch_notes": "mythril price fell; farmed for Pristine gems + Cinnabar; no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=3434324627 (Chronos, 2025-02-25/updated 2025-03-05)",
+    "https://aeternum-map.th.gl/routes/6727e97991d80d6b72ddf8ae (community route; node counts from route metadata, last used per site 2026)",
+    "https://new-world.guide/db/gatherable/oreveinmythrillarge (spawn points per subzone)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": "loop_time: designed so 1st route respawns by end of 2nd"
+  },
+  {
+   "id": "nw-route-017",
+   "name": "Clarion Outpost route (Chronos)",
+   "region": "Shattered Mountain",
+   "materials": [
+    "mythril ore"
+   ],
+   "tier": "T5 (top ore)",
+   "waypoints": [
+    {
+     "name": "Clarion Outpost",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Myrkgard",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Outer Darkness",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Upper Svikin",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Vallis Lacrimarum",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Wanhope Wold",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "\"The Clarion route!\" community route = 29; subzone large spawn pts: Vallis Lacrimarum 51, Wanhope Wold 41 (new-world.guide)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 205",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; lvl 60 zone",
+   "nearest_town": "Clarion Outpost",
+   "zone_level": "60 (2021 list)",
+   "patch_notes": "~350 cinnabar + ~140 pristine gems per double loop with luck gear (Chronos claim)",
+   "sources": [
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=3434324627 (Chronos, 2025-02-25/updated 2025-03-05)",
+    "https://aeternum-map.th.gl/routes/6727e8cf91d80d6b72ddf8ad (community route; node counts from route metadata, last used per site 2026)",
+    "https://new-world.guide/db/gatherable/oreveinmythrillarge (spawn points per subzone)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-018",
+   "name": "Cradle's Rest / Bubasteum",
+   "region": "Brimstone Sands",
+   "materials": [
+    "mythril ore"
+   ],
+   "tier": "T5 (top ore)",
+   "waypoints": [
+    {
+     "name": "Cradle's Rest",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "33 (community route \"11\")",
+   "loop_time": null,
+   "tradeskill_req": "Mining 205",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; 60+ zone",
+   "nearest_town": "Brimstone Sands settlement",
+   "zone_level": "60+",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)",
+    "https://aeternum-map.th.gl/routes/65330eeeb2a10070c2d54aa6 (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-019",
+   "name": "Nighthaven mythril spots",
+   "region": "Nighthaven",
+   "materials": [
+    "mythril ore"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "City-State of Durevos",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Mount Algarot",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Lower Houses",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Widow's Cliff",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m, small 8m24s–12m (nwdb base)",
+   "node_count": "large spawn pts: Durevos 9, Algarot 7, Lower Houses 4, Widow's Cliff 3 (new-world.guide)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 205",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; endgame zone",
+   "nearest_town": null,
+   "zone_level": "65 required",
+   "patch_notes": "Season 10 zone (Oct 2025), final content",
+   "sources": [
+    "https://new-world.guide/db/gatherable/oreveinmythrillarge (spawn points per subzone)",
+    "https://thexamxam.com/2025/10/new-world-aeternum-nighthaven-access-guide/ (2025-10)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-020",
+   "name": "no route sourced",
+   "region": null,
+   "materials": [
+    "fallen star",
+    "anima quartz"
+   ],
+   "tier": "T5 special",
+   "waypoints": [],
+   "respawn": "large 11m54s–17m (nwdb)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Mining 250",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": null,
+   "nearest_town": null,
+   "zone_level": null,
+   "patch_notes": "Anima Quartz appears in catacombs ids (nwdb)",
+   "sources": [
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-021",
+   "name": "lodestone farm (community, top)",
+   "region": "Shattered Mountain + Great Cleave",
+   "materials": [
+    "lodestone"
+   ],
+   "tier": "stone T4",
+   "waypoints": [
+    {
+     "name": "Tempest Valley Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Tundramouth Burrow",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "ridge NW to Svikin's Stand",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 17m51s–25m30s (nwdb)",
+   "node_count": "51 lodestone (community route)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 75 (nwdb; older Millenium says 105)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium-high; corrupted",
+   "nearest_town": "Great Cleave outpost",
+   "zone_level": "41–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/63767fb3ed141d586d0e8569 (community route; node counts from route metadata, last used per site 2026)",
+    "https://us.millenium.gg/guide/25378.html (2021-11-10)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-022",
+   "name": "Vega Bridge circle",
+   "region": "Weaver's Fen",
+   "materials": [
+    "lodestone"
+   ],
+   "tier": "stone T4",
+   "waypoints": [
+    {
+     "name": "WF settlement or Mallory's Refuge",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Vega Bridge",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "between Fenton Hamlet & Clawpoint Ruins",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 17m51s–25m30s",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Mining 75",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low-medium",
+   "nearest_town": "Weaver's Fen settlement",
+   "zone_level": "30–40 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://us.millenium.gg/guide/25378.html (2021-11-10)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": "loop_time: quick in-and-out"
+  },
+  {
+   "id": "nw-route-023",
+   "name": "Wolfbough NW sweep",
+   "region": "Brightwood",
+   "materials": [
+    "lodestone"
+   ],
+   "tier": "stone T4",
+   "waypoints": [
+    {
+     "name": "Wolfbough Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "circle NE",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 17m51s–25m30s",
+   "node_count": "31 (community \"Brightwood lodestone\")",
+   "loop_time": null,
+   "tradeskill_req": "Mining 75",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Brightwood settlement",
+   "zone_level": "27–35 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://us.millenium.gg/guide/25378.html (2021-11-10)",
+    "https://aeternum-map.th.gl/routes/61986065e442cf0954bf7d6e (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-024",
+   "name": "any boulder field near a settlement",
+   "region": "anywhere",
+   "materials": [
+    "stone"
+   ],
+   "tier": "T1",
+   "waypoints": [],
+   "respawn": "large boulder 7m–11m (nwdb)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Mining 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low",
+   "nearest_town": "any settlement",
+   "zone_level": "any",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-025",
+   "name": "Sandstone Farm (community)",
+   "region": "Brimstone Sands",
+   "materials": [
+    "sandstone"
+   ],
+   "tier": "stone T3",
+   "waypoints": [
+    {
+     "name": "Brimstone Sands",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 17m51s–25m30s (nwdb)",
+   "node_count": "72 sandstone",
+   "loop_time": null,
+   "tradeskill_req": "Mining 105",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; 60+ zone",
+   "nearest_town": "Brimstone Sands settlement",
+   "zone_level": "60+",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/6350fc5e50f6083122199406 (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-026",
+   "name": "sulfur farm (acid pools)",
+   "region": "Brimstone Sands",
+   "materials": [
+    "brimstone (sulfur)"
+   ],
+   "tier": "T4",
+   "waypoints": [
+    {
+     "name": "Shrine of War",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 17m51s–25m30s (nwdb)",
+   "node_count": "50 brimstone (community)",
+   "loop_time": null,
+   "tradeskill_req": "Mining 130",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; acid pools",
+   "nearest_town": "Brimstone Sands settlement",
+   "zone_level": "60+",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/63783e0e18e8876037553d9a (community route; node counts from route metadata, last used per site 2026)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-027",
+   "name": "WEAVER'S FEN OIL",
+   "region": "Weaver's Fen",
+   "materials": [
+    "oil (seeping stone)"
+   ],
+   "tier": "—",
+   "waypoints": [
+    {
+     "name": "Dunkelberg Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m (nwdb)",
+   "node_count": "111 oil (community); alt route 157",
+   "loop_time": null,
+   "tradeskill_req": "Mining 20 (track 45)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low-medium",
+   "nearest_town": "Weaver's Fen settlement",
+   "zone_level": "30–40 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/61791fa50d5c35c399ae18e3 (community route; node counts from route metadata, last used per site 2026)",
+    "https://aeternum-map.th.gl/routes/62c1cb3f04f314ad18eef77f (community route; node counts from route metadata, last used per site 2026)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-028",
+   "name": "Brightwood/Everfall Saltpeter Loop",
+   "region": "Everfall",
+   "materials": [
+    "saltpeter"
+   ],
+   "tier": "—",
+   "waypoints": [
+    {
+     "name": "Everfall",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 10m45s–14m45s (nwdb)",
+   "node_count": "16 saltpeter",
+   "loop_time": null,
+   "tradeskill_req": "none (no skill gate in nwdb)",
+   "tool_tier": "none",
+   "danger": "low",
+   "nearest_town": "Everfall settlement",
+   "zone_level": "1–25",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/617e31075d2748d9414cb100 (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-029",
+   "name": "loose flint stones (pick up)",
+   "region": "anywhere",
+   "materials": [
+    "flint"
+   ],
+   "tier": "—",
+   "waypoints": [],
+   "respawn": "60–90s (nwdb)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "none",
+   "tool_tier": "none",
+   "danger": "low",
+   "nearest_town": "any",
+   "zone_level": "any",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-030",
+   "name": "Lover's Shrine forest",
+   "region": "Ebonscale Reach / Everfall",
+   "materials": [
+    "green wood"
+   ],
+   "tier": "young tree T1",
+   "waypoints": [
+    {
+     "name": "Lover's Shrine",
+     "x": null,
+     "y": null,
+     "contents": "Ebonscale"
+    }
+   ],
+   "respawn": "young med 10m30s–15m (nwdb)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Logging 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low-medium",
+   "nearest_town": "Ebonscale / Everfall settlements",
+   "zone_level": "varies",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-031",
+   "name": "east of Lover's Shrine (brown trunks)",
+   "region": "Ebonscale → Brightwood edge",
+   "materials": [
+    "aged wood"
+   ],
+   "tier": "mature tree T2",
+   "waypoints": [
+    {
+     "name": "Lover's Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "east toward Brightwood",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "mature L 11m54s–17m (nwdb)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Logging 50",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Brightwood settlement",
+   "zone_level": "27–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-032",
+   "name": "Wyrdwood Tree BW Farm (loop)",
+   "region": "Brightwood",
+   "materials": [
+    "wyrdwood"
+   ],
+   "tier": "T4",
+   "waypoints": [
+    {
+     "name": "Bronzegrove",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Greyvale",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 17m51s–25m30s (nwdb)",
+   "node_count": "36 wyrdwood",
+   "loop_time": null,
+   "tradeskill_req": "Logging 100 (track 125)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Brightwood settlement",
+   "zone_level": "27–35 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/619ba1ec70800821838df4e2 (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-033",
+   "name": "Eridanus (fast respawn, Angry Earth guarded)",
+   "region": "Restless Shore",
+   "materials": [
+    "wyrdwood"
+   ],
+   "tier": "T4",
+   "waypoints": [
+    {
+     "name": "Shiresad Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Eridanus",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 17m51s–25m30s",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Logging 100",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium; Angry Earth",
+   "nearest_town": "Restless Shore settlement",
+   "zone_level": "42–46 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-034",
+   "name": "Wyrdwood Route (community)",
+   "region": "Mourningdale",
+   "materials": [
+    "wyrdwood"
+   ],
+   "tier": "T4",
+   "waypoints": [
+    {
+     "name": "Mourningdale",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 17m51s–25m30s",
+   "node_count": "50 wyrdwood",
+   "loop_time": null,
+   "tradeskill_req": "Logging 100",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Mourningdale settlement",
+   "zone_level": "45–50 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/63f1934e82362cdae497660d (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-035",
+   "name": "EDENGROVE IRONWOOD / Stained Bluffs",
+   "region": "Edengrove",
+   "materials": [
+    "ironwood"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Blighted Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "west to Crescent Window",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 23m48s–34m (nwdb)",
+   "node_count": "39 (community \"EDENGROVE IRONWOOD\"); 37 (DynKel route)",
+   "loop_time": null,
+   "tradeskill_req": "Logging 150 (track 200)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; blight/Angry Earth",
+   "nearest_town": "Last Stand Outpost",
+   "zone_level": "50–60 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/61791e910d5c35c399ae18e2 (community route; node counts from route metadata, last used per site 2026)",
+    "https://aeternum-map.th.gl/routes/63d12f0d5ca6f3b9257e5246 (community route; node counts from route metadata, last used per site 2026)",
+    "https://us.millenium.gg/guide/25368.html",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-036",
+   "name": "Mountainrise clusters",
+   "region": "Shattered Mountain",
+   "materials": [
+    "ironwood"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Mountainrise Outpost",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "west cluster",
+     "x": null,
+     "y": null,
+     "contents": "Iratus/Pullus/Spilaio"
+    },
+    {
+     "name": "NE cluster Blighted Wilds",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 23m48s–34m",
+   "node_count": "31 (community \"iron wood\")",
+   "loop_time": null,
+   "tradeskill_req": "Logging 150",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high",
+   "nearest_town": "Mountainrise Outpost",
+   "zone_level": "60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://us.millenium.gg/guide/25368.html",
+    "https://aeternum-map.th.gl/routes/6287bc2d2145cb9613e3446f (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-037",
+   "name": "Skysong Lagoon clockwise",
+   "region": "Ebonscale Reach",
+   "materials": [
+    "ironwood"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Traveler's Precipice shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Skysong Lagoon",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Skysong Crypt",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 23m48s–34m",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Logging 150",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Ebonscale Reach settlement",
+   "zone_level": "51–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://us.millenium.gg/guide/25368.html"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-038",
+   "name": "7-stop shrine circuit (MMOJUGG, S10)",
+   "region": "Shattered Mountain / Ebonscale / Reekwater / Cutlass / Mourningdale / Edengrove",
+   "materials": [
+    "runewood"
+   ],
+   "tier": "T5 (top wood)",
+   "waypoints": [
+    {
+     "name": "Clarion Outpost",
+     "x": null,
+     "y": null,
+     "contents": "16 trees, 3–4 min"
+    },
+    {
+     "name": "Nexal Route Shrine",
+     "x": null,
+     "y": null,
+     "contents": "10, 2–3 min"
+    },
+    {
+     "name": "Imperial Shrine, Ebonscale",
+     "x": null,
+     "y": null,
+     "contents": "11, ~3 min, no mobs"
+    },
+    {
+     "name": "Peninsula Shrine, Reekwater",
+     "x": null,
+     "y": null,
+     "contents": "10, ~2 min"
+    },
+    {
+     "name": "Cutthroat Hill Shrine, Cutlass Keys",
+     "x": null,
+     "y": null,
+     "contents": "8, ~2 min"
+    },
+    {
+     "name": "Rams Rest Shrine, Mourningdale",
+     "x": null,
+     "y": null,
+     "contents": "5"
+    },
+    {
+     "name": "Legion Shrine, Edengrove",
+     "x": null,
+     "y": null,
+     "contents": "5"
+    }
+   ],
+   "respawn": "large 23m48s–34m (nwdb)",
+   "node_count": "75 trees total",
+   "loop_time": "~15 min total (MMOJUGG)",
+   "tradeskill_req": "Logging 205",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low–medium (minor Angry Earth/animals)",
+   "nearest_town": "recall to inn/house between stops",
+   "zone_level": "45–60",
+   "patch_notes": "written for Season 10; no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://www.mmojugg.com/news/best-runewood-farming-route-for-new-world-aeternum.html (Season 10)",
+    "https://aeternum-map.th.gl/routes/66368060de399bed3c37b487 (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-039",
+   "name": "Unbound Shrine",
+   "region": "Cutlass Keys",
+   "materials": [
+    "runewood"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Unbound Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 23m48s–34m",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Logging 205",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Cutlass Keys settlement",
+   "zone_level": "28–40",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-040",
+   "name": "Windsward Hemp (Magnus)",
+   "region": "Windsward + Monarch's Bluffs",
+   "materials": [
+    "hemp (fibers)"
+   ],
+   "tier": "T1",
+   "waypoints": [
+    {
+     "name": "Iron Rose Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m (nwdb)",
+   "node_count": "178 hemp; bigger variant \"hemp grand route\" 400",
+   "loop_time": null,
+   "tradeskill_req": "Harvesting 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low",
+   "nearest_town": "Windsward settlement",
+   "zone_level": "1–25",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/617ee39c4e8256c473d43b0a (community route; node counts from route metadata, last used per site 2026)",
+    "https://aeternum-map.th.gl/routes/6297a303f4b8cae47e329ff8 (community route; node counts from route metadata, last used per site 2026)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-041",
+   "name": "Silk MD / Sisyphos road north",
+   "region": "Restless Shore → Mourningdale",
+   "materials": [
+    "silkweed"
+   ],
+   "tier": "T4",
+   "waypoints": [
+    {
+     "name": "Shrine of Sisyphos",
+     "x": null,
+     "y": null,
+     "contents": "Restless Shore"
+    },
+    {
+     "name": "road NE",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "water path north to Mourningdale town",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m",
+   "node_count": "93 silkweed (community \"Silk MD\"); Mourningdale has 64 silkweed nodes total (DiamondLobby)",
+   "loop_time": null,
+   "tradeskill_req": "Harvesting 100",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium; recommend lvl 40+",
+   "nearest_town": "Mourningdale settlement",
+   "zone_level": "42–50",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/62b798a1e5eddf90ebcdd94d (community route; node counts from route metadata, last used per site 2026)",
+    "https://diamondlobby.com/new-world/where-to-find-silkweed/",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-042",
+   "name": "Fabhcon Shrine north / Gatherer's Road river",
+   "region": "Edengrove",
+   "materials": [
+    "wirefiber"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Gatherer's Road shrine",
+     "x": null,
+     "y": null,
+     "contents": "or Fabhcon Shrine"
+    },
+    {
+     "name": "north to Ruined Straits",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "east bank south through Blightcrown",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "end near Knot Rust",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m (nwdb)",
+   "node_count": "29 (MMOGAH); 41 (community \"WIRE BOSQUE\")",
+   "loop_time": null,
+   "tradeskill_req": "Harvesting 150 (nwdb; Millenium says 175; track 200)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; Angry Earth, lvl 55–60+",
+   "nearest_town": "Last Stand Outpost",
+   "zone_level": "50–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://www.mmogah.com/news/new-world/wirefiber-farming-guide-in-new-world-aeternum",
+    "https://us.millenium.gg/guide/25366.html",
+    "https://aeternum-map.th.gl/routes/6191683953b696bf94f1b9a4 (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": "loop_time: ~8,000 wirefiber/h claimed w/ booster (MMOGAH"
+  },
+  {
+   "id": "nw-route-043",
+   "name": "Death's Delay + Dunkelberg combo",
+   "region": "Reekwater + Weaver's Fen",
+   "materials": [
+    "wirefiber"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Death's Delay outpost shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "west 4–5 more",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "warp to Dunkelberg Shrine",
+     "x": null,
+     "y": null,
+     "contents": "WF"
+    },
+    {
+     "name": "south past houses",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m",
+   "node_count": "~10 at Death's Delay + 12 at Dunkelberg (MMOGAH)",
+   "loop_time": null,
+   "tradeskill_req": "Harvesting 150",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium; wolves/bison",
+   "nearest_town": "Reekwater / WF settlements",
+   "zone_level": "30–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://www.mmogah.com/news/new-world/wirefiber-farming-guide-in-new-world-aeternum"
+   ],
+   "notes": "loop_time: ~3,000/h combined claimed"
+  },
+  {
+   "id": "nw-route-044",
+   "name": "Spinfiber (community) / north Mourningdale",
+   "region": "Mourningdale",
+   "materials": [
+    "spinfiber"
+   ],
+   "tier": "T5 (top fiber)",
+   "waypoints": [
+    {
+     "name": "northernmost shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "east to wyrdwood",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "NE rows",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Scorpius elite area",
+     "x": null,
+     "y": null,
+     "contents": "optional"
+    }
+   ],
+   "respawn": "large 11m54s–17m (nwdb)",
+   "node_count": "19 spinfiber (community route)",
+   "loop_time": null,
+   "tradeskill_req": "Harvesting 205",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium; Scorpius is lvl-50 elite (IGGM)",
+   "nearest_town": "Mourningdale settlement",
+   "zone_level": "45–50 (2021 list)",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/65314f79a4082706f550b374 (community route; node counts from route metadata, last used per site 2026)",
+    "https://www.iggm.com/news/new-world-how-to-farm-spinfiber-in-rise-of-the-angry-earth",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-045",
+   "name": "settlement → river N → oasis → river S",
+   "region": "Brimstone Sands",
+   "materials": [
+    "spinfiber"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Brimstone Sands settlement",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "north river",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "oasis",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "south river",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "large 11m54s–17m",
+   "node_count": null,
+   "loop_time": "~15 min (IGGM: if longer, nodes already respawned)",
+   "tradeskill_req": "Harvesting 205",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "high; 60+ zone",
+   "nearest_town": "Brimstone Sands settlement",
+   "zone_level": "60+",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://www.iggm.com/news/new-world-how-to-farm-spinfiber-in-rise-of-the-angry-earth"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-046",
+   "name": "Rawhide Alligators (Salty Marshes)",
+   "region": "Cutlass Keys",
+   "materials": [
+    "rawhide"
+   ],
+   "tier": "T1",
+   "waypoints": [
+    {
+     "name": "Marshview Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Salty Marshes",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": null,
+   "node_count": "120 alligator spawns (community route)",
+   "loop_time": null,
+   "tradeskill_req": "Skinning ~50 (lvl 30 animals)",
+   "tool_tier": "skinning knife, any tier",
+   "danger": "low-medium",
+   "nearest_town": "Cutlass Keys settlement",
+   "zone_level": "28–40",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/638d5b673c73d4fbf8febad7 (community route; node counts from route metadata, last used per site 2026)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": "respawn: creature respawn not sourced"
+  },
+  {
+   "id": "nw-route-047",
+   "name": "Everfall Rawhide Route / Dankfur Hollow wolf den",
+   "region": "Everfall / Windsward",
+   "materials": [
+    "rawhide"
+   ],
+   "tier": "T1",
+   "waypoints": [
+    {
+     "name": "Dankfur Hollow",
+     "x": null,
+     "y": null,
+     "contents": "Windsward"
+    }
+   ],
+   "respawn": null,
+   "node_count": "71 wolves (community Everfall route)",
+   "loop_time": null,
+   "tradeskill_req": "Skinning 0",
+   "tool_tier": "skinning knife, any tier",
+   "danger": "low",
+   "nearest_town": "Windsward / Everfall settlements",
+   "zone_level": "1–25",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/65ac2fd88f50e2414970715d (community route; node counts from route metadata, last used per site 2026)",
+    "https://game8.co/games/New-World/archives/339193"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-048",
+   "name": "Mourning Bison or Strange Boars",
+   "region": "Mourningdale / Edengrove",
+   "materials": [
+    "thick hide"
+   ],
+   "tier": "T2",
+   "waypoints": [
+    {
+     "name": "Genesis Shrine",
+     "x": null,
+     "y": null,
+     "contents": "Edengrove"
+    }
+   ],
+   "respawn": null,
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Skinning ~100–150 (lvl 31–50 animals)",
+   "tool_tier": "skinning knife, any tier",
+   "danger": "medium",
+   "nearest_town": "Mourningdale settlement / Last Stand",
+   "zone_level": "45–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-049",
+   "name": "GC Thick Hide (community)",
+   "region": "Great Cleave",
+   "materials": [
+    "thick hide"
+   ],
+   "tier": "T2",
+   "waypoints": [
+    {
+     "name": "Great Cleave",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": null,
+   "node_count": "83 elk",
+   "loop_time": null,
+   "tradeskill_req": "Skinning ~100–150",
+   "tool_tier": "skinning knife, any tier",
+   "danger": "medium-high",
+   "nearest_town": "Great Cleave outpost",
+   "zone_level": "41–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/65ac7aed8f50e24149707165 (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-050",
+   "name": "Iron Hide – Time is money (bison)",
+   "region": "Reekwater",
+   "materials": [
+    "iron hide"
+   ],
+   "tier": "T3",
+   "waypoints": [
+    {
+     "name": "Reekwater settlement area",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": null,
+   "node_count": "78 bison (community)",
+   "loop_time": null,
+   "tradeskill_req": "Skinning ~150 (lvl 51–62 animals)",
+   "tool_tier": "skinning knife, any tier",
+   "danger": "medium",
+   "nearest_town": "Reekwater settlement",
+   "zone_level": "58–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/63a763c9a5f93c17efe8fd1a (community route; node counts from route metadata, last used per site 2026)",
+    "https://game8.co/games/New-World/archives/339193",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-051",
+   "name": "Lover's Shrine marsh gators",
+   "region": "Ebonscale Reach",
+   "materials": [
+    "iron hide"
+   ],
+   "tier": "T3",
+   "waypoints": [
+    {
+     "name": "Lover's Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "east marshes",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": null,
+   "node_count": "27 alligators (MMOPIXEL); elite Tazorjaw nearby",
+   "loop_time": null,
+   "tradeskill_req": "Skinning ~150",
+   "tool_tier": "skinning knife, any tier",
+   "danger": "medium; elite near waterfall",
+   "nearest_town": "Ebonscale Reach settlement",
+   "zone_level": "51–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://www.mmopixel.com/news/new-world-aeternum-best-ironhide-farming-locations",
+    "https://us.millenium.gg/guide/25439.html"
+   ],
+   "notes": "loop_time: ~5–6k ironhide/h claimed"
+  },
+  {
+   "id": "nw-route-052",
+   "name": "The Beastlands mammoths",
+   "region": "Elysian Wilds",
+   "materials": [
+    "dark hide"
+   ],
+   "tier": "T5",
+   "waypoints": [
+    {
+     "name": "Trampled Thoroughfare",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": null,
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Skinning 205 (lvl 62+ animals)",
+   "tool_tier": "skinning knife, any tier",
+   "danger": "high; 65+ zone",
+   "nearest_town": "Elysian Wilds outpost",
+   "zone_level": "60–65",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-053",
+   "name": "Acid pools Hellmouths",
+   "region": "Brimstone Sands",
+   "materials": [
+    "dark hide",
+    "iron hide mix"
+   ],
+   "tier": "T3–T5",
+   "waypoints": [
+    {
+     "name": "Mercurial Shrine",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": null,
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Skinning 150–205",
+   "tool_tier": "skinning knife, any tier",
+   "danger": "high",
+   "nearest_town": "Brimstone Sands settlement",
+   "zone_level": "60+",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-054",
+   "name": "[Mandrel] harvesting (herbs, cinnamon)",
+   "region": "Cutlass Keys",
+   "materials": [
+    "herbs (cooking)"
+   ],
+   "tier": "—",
+   "waypoints": [
+    {
+     "name": "Cutlass Keys",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "herbs L 11m54s–17m (nwdb)",
+   "node_count": "111 nodes (~54% herbs)",
+   "loop_time": null,
+   "tradeskill_req": "Harvesting 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low-medium",
+   "nearest_town": "Cutlass Keys settlement",
+   "zone_level": "28–40",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/62c099cebc1641db7afa7e61 (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-055",
+   "name": "ES Hyssop Farm (respawn by end)",
+   "region": "Ebonscale Reach",
+   "materials": [
+    "herbs (hyssop)"
+   ],
+   "tier": "—",
+   "waypoints": [
+    {
+     "name": "Ebonscale Reach",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "herbs L 11m54s–17m",
+   "node_count": "85 herbs",
+   "loop_time": "long enough that start respawns by end (route title)",
+   "tradeskill_req": "Harvesting 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "medium",
+   "nearest_town": "Ebonscale Reach settlement",
+   "zone_level": "51–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/619c504f0a03a1d97c7c00b2 (community route; node counts from route metadata, last used per site 2026)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-056",
+   "name": "Azoth water (community, most used)",
+   "region": "Reekwater",
+   "materials": [
+    "azoth spring (azoth water)"
+   ],
+   "tier": "—",
+   "waypoints": [
+    {
+     "name": "Reekwater",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "10m30s–17m (nwdb)",
+   "node_count": "87 springs",
+   "loop_time": null,
+   "tradeskill_req": "none",
+   "tool_tier": "none",
+   "danger": "medium",
+   "nearest_town": "Reekwater settlement",
+   "zone_level": "58–60",
+   "patch_notes": "no gathering changes in Oct-2026 QoL patch; servers close 2027-01-31",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/639754169af115cc6c0c88fd (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-057",
+   "name": "no good route sourced",
+   "region": null,
+   "materials": [
+    "mushrooms"
+   ],
+   "tier": "—",
+   "waypoints": [],
+   "respawn": "large 2h6m–3h (nwdb)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Harvesting 0",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": null,
+   "nearest_town": null,
+   "zone_level": null,
+   "patch_notes": "very slow respawn – not worth a dedicated loop",
+   "sources": [
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-058",
+   "name": "Big Harvest – Motes/Fibers; Morningdale Earth Motes",
+   "region": "Weaver's Fen / Mourningdale / Windsward",
+   "materials": [
+    "motes (elemental plants & stones)"
+   ],
+   "tier": "—",
+   "waypoints": [
+    {
+     "name": "Windsward",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Mourningdale",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "plants (Lifebloom, Earthspine, etc.) 10m30s–15m; stones (Lifejewel, Shockspire) 14m–20m (nwdb)",
+   "node_count": "427 mixed (Big Harvest); 19 earthcrag (MD)",
+   "loop_time": null,
+   "tradeskill_req": "Harvesting 30 (plants) / Mining 50 (stones)",
+   "tool_tier": "any tier (tool GS only affects speed per Utopian Organ)",
+   "danger": "low-medium",
+   "nearest_town": "Windsward / Mourningdale settlements",
+   "zone_level": "1–50",
+   "patch_notes": "pick up with alignment-perk tools too",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/645d38ae8c7fba2fde473ebb (community route; node counts from route metadata, last used per site 2026)",
+    "https://aeternum-map.th.gl/routes/6180ce534e8256c473d43c8c (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)",
+    "https://newworldnews.org/guide-to-gathering/ (Utopian Organ, updated 2025-10-04)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-059",
+   "name": "any broad hotspot",
+   "region": "all territories",
+   "materials": [
+    "fish (broad hotspots, ★)"
+   ],
+   "tier": "T1",
+   "waypoints": [],
+   "respawn": "15–25 min (nwdb)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Fishing 2+",
+   "tool_tier": "pole T1–T5 (T5: +125% rarity, 20m cast)",
+   "danger": "varies",
+   "nearest_town": "varies",
+   "zone_level": "any",
+   "patch_notes": null,
+   "sources": [
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)",
+    "https://www.newworld.com/en-us/news/articles/new-world-fishing-guide (2022-07-19)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-060",
+   "name": "any rare hotspot",
+   "region": "all territories",
+   "materials": [
+    "fish (rare hotspots, ★★)"
+   ],
+   "tier": "T2",
+   "waypoints": [],
+   "respawn": "25–40 min (nwdb)",
+   "node_count": null,
+   "loop_time": null,
+   "tradeskill_req": "Fishing 7+",
+   "tool_tier": "pole T1–T5",
+   "danger": "varies",
+   "nearest_town": "varies",
+   "zone_level": "any",
+   "patch_notes": null,
+   "sources": [
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)",
+    "https://www.newworld.com/en-us/news/articles/new-world-fishing-guide (2022-07-19)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "nw-route-061",
+   "name": "secret fishing hotspots world tour (community)",
+   "region": "15 territories",
+   "materials": [
+    "fish (secret hotspots, ★★★",
+    "legendaries)"
+   ],
+   "tier": "T3",
+   "waypoints": [
+    {
+     "name": "Brimstone",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Ebonscale",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Great Cleave",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Shattered Mtn",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Edengrove",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Mourningdale",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Restless Shore",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Reekwater",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Elysian Wilds",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Cutlass Keys",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "MB",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Windsward",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Everfall",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "Brightwood",
+     "x": null,
+     "y": null,
+     "contents": null
+    },
+    {
+     "name": "WF",
+     "x": null,
+     "y": null,
+     "contents": null
+    }
+   ],
+   "respawn": "40 min–1h25m (nwdb)",
+   "node_count": "24 secret hotspots on route",
+   "loop_time": null,
+   "tradeskill_req": "Fishing 12+ (some up to 200)",
+   "tool_tier": "pole T5 + rarity bait",
+   "danger": "varies",
+   "nearest_town": "varies",
+   "zone_level": "any",
+   "patch_notes": "legendary per territory: e.g. Abaia Serpe (Windsward), Lava Barb (Shattered Mtn), Daemonaja (Ebonscale)",
+   "sources": [
+    "https://aeternum-map.th.gl/routes/65cd29e773e0c81ec19f2cac (community route; node counts from route metadata, last used per site 2026)",
+    "https://nwdb.info/db/gatherables (datamined node respawn/req values, fetched 2026-11-15)",
+    "https://www.newworld.com/en-us/news/articles/new-world-fishing-guide (2022-07-19)",
+    "https://www.icy-veins.com/new-world/fishing-trade-skill-guide"
+   ],
+   "notes": null
+  }
+ ]
+}
